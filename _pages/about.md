@@ -1,21 +1,21 @@
 ---
 permalink: /
-title: "Graduate Students in International Political Economy (GSIPE) Workshop"
+title: "Junior IO Scholars Workshop Website"
 excerpt: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-The Graduate Student International Political Economy Workshop (GSIPE) is a virtual, interdisciplinary, graduate-student-run workshop. We aim to provide a venue for graduate students (including pre-docs and post-docs) to present works-in-progress and solicit feedback from their peers and faculty. 
+The Graduate Student International Political Economy Workshop (GSIPE) is a virtual, interdisciplinary, graduate-student-run workshop. We aim to provide a venue for graduate students (including pre-docs and post-docs) to present works-in-progress and solicit feedback from their peers and faculty.
 
 We invite graduate students and faculty from Political Science and Economics with an interest in International Political Economy ([broadly defined](https://www.isanet.org/ISA/Sections/IPE)) to participate, and to sign up for our [mailing list](#mailing). We welcome papers in all stages of progress and job market papers.
 
 
-<hr> 
+<hr>
 
-*News:* 
+*News:*
 
 - We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, starting June 1st.
 
@@ -23,11 +23,11 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 - Our activities for the Spring of 2022 have concluded. We thank all participants, moderators and presenters for helping us keep growing GSIPE.
 
-<hr> 
+<hr>
 
-**Workshop format:** 
+**Workshop format:**
 
-Participants are expected to read the papers before the workshop. Papers will be posted [here](https://gsipe-workshop.github.io/paper/) and circulated along with the link to the Zoom meeting via our mailing list ([subscribe here](#mailing)). 
+Participants are expected to read the papers before the workshop. Papers will be posted [here](https://gsipe-workshop.github.io/paper/) and circulated along with the link to the Zoom meeting via our mailing list ([subscribe here](#mailing)).
 
 *Job Market Talks:*
 
@@ -44,7 +44,7 @@ Economics: 45 min. presentation, 15 min. Q&A.
 
 *The workshop is committed to promoting the work and voices of Black, Indigenous, POC, and women scholars.*
 
-<hr> 
+<hr>
 
 Sign up for the GSIPE listserv below:
 <a id='mailing'></a>
