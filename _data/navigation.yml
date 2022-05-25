@@ -7,17 +7,8 @@ main:
   - title: "Schedule"
     url: /schedule/
 
-  - title: "Special Events"
-    url: /special-events/    
-
-  - title: "Previous Schedules"
-    url: /previous-schedules/    
-    
   - title: "Our Team"
     url: /team/
-        
-  - title: "Job Market Candidates"
-    url: /job-market/
-    
+
   - title: "Subscribe"
     url: /subscribe/
