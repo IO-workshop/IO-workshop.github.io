@@ -13,6 +13,7 @@ Email: [jr.ioscholars@gmail.com](jr.ioscholars@gmail.com)
 
 [Sky Kunkel (Purdue)]
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.skytheacademic.com"}}'><i class="fa-solid fa-browser"></i> [personal website]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.skythea/confli.pdf"}}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "kunkel3@purdue.edu"}}'><i class="fa-solid fa-circle-envelope"></i> [Email]</a></span>
 
 
