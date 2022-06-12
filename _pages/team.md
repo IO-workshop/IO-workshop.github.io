@@ -13,7 +13,7 @@ Sabrina Arias (UPenn)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.sabrinabarias.com/"}}'><i class='fas fa-user'></i> [website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:sbarias20@gmail.com"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
-Valerie de Koeijer (University of Maryland)
+Valerie de Koeijer (Johns Hopkins University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://politicalscience.jhu.edu/directory/valerie-de-koeijer/"}}'><i class='fas fa-user'></i> [website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:vdekoei1@jhu.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
