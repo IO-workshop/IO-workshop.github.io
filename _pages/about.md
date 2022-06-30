@@ -37,7 +37,7 @@ We encourage submissions from people working on work related to international or
 
 To participate in our fall workshop series in presenting your work, discussing others’ works, or being a non-presenting participants, please sign up below:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNvav3X8EwSUUwaf-r2vSkiuggjdFAMa_Xk9SZdLqGvRSFWg/viewform?embedded=true" width="900" height="3186" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNvav3X8EwSUUwaf-r2vSkiuggjdFAMa_Xk9SZdLqGvRSFWg/viewform?embedded=true" width="900" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 <hr>
