@@ -13,7 +13,9 @@ We are seeking submissions from people interested in presenting their work or di
 
 We encourage submissions from people working on work related to international organizations, broadly defined, inclusive of international law, foreign policy, and related areas. We also welcome different types of research, including theoretical, interdisciplinary, empirical, and policy oriented works, as well as pre-analysis plans and research designs.
 
+To participate in our fall workshop series in presenting your work, discussing others’ works, or being a non-presenting participants, please sign up below:
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNvav3X8EwSUUwaf-r2vSkiuggjdFAMa_Xk9SZdLqGvRSFWg/viewform?embedded=true" width="640" height="3186" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 <!-- Monday, May 9th:
 
 [Pengshan Pan](https://www.cgm.pitt.edu/people/ant-26) (Pittsburgh), presents:
