@@ -16,7 +16,7 @@ We invite people working on international organizations, broadly defined, inclus
 
 **Workshop format:**
 
-We expect all participants read the papers before the workshop. Papers and the Zoom link will be circulated via our mailing list each week (see below).
+We expect all participants read the papers before the workshop. Papers and the Zoom link will be circulated via our mailing list each week (see below). The workshop takes place on Tuesdays at 3:00 pm (EST)
 
 Job Market Talks: 45 minutes presentation, 45 minutes Q&A.
 
@@ -27,7 +27,7 @@ Sessions will be recorded and are available to the presenter upon request.
 
 *The workshop is committed to promoting the work and voices of Black, Indigenous, POC, and women scholars.*
 
-**Call for Papers (2022):**
+<!-- **Call for Papers (2022):**
 
 The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. This workshop will be an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests.
 
@@ -37,7 +37,7 @@ We encourage submissions from people working on work related to international or
 
 To participate in our fall workshop series in presenting your work, discussing others’ works, or being a non-presenting participants, please sign up below:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNvav3X8EwSUUwaf-r2vSkiuggjdFAMa_Xk9SZdLqGvRSFWg/viewform?embedded=true" width="900" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNvav3X8EwSUUwaf-r2vSkiuggjdFAMa_Xk9SZdLqGvRSFWg/viewform?embedded=true" width="900" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 
 
 <hr>

@@ -7,7 +7,9 @@ author_profile: true
 
 **Call for Papers (2022):**
 
-The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. This workshop will be an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests.
+We have set the workshop series for Fall 2022. Please refer to the "Schedule" tab above for more information.
+
+<!-- The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. This workshop will be an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests.
 
 We are seeking submissions from people interested in presenting their work or discussing others’ works this fall, as well as non-presenting participants at any stage in their careers. We welcome longer-form practice job talk presentations (~45 minutes) as well as shorter presentations of works in progress (~20 minutes). Presentations will be followed by time for Q&A. Participants are expected to read the papers before the workshop. The tentative dates for the fall semester presentations are 9/6, 9/20, 10/4, 10/18, 11/1, 11/15, 11/29, and 12/13 at 4:00pm Eastern.
 
@@ -15,7 +17,7 @@ We encourage submissions from people working on work related to international or
 
 To participate in our fall workshop series in presenting your work, discussing others’ works, or being a non-presenting participants, please sign up below:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNvav3X8EwSUUwaf-r2vSkiuggjdFAMa_Xk9SZdLqGvRSFWg/viewform?embedded=true" width="640" height="3186" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNvav3X8EwSUUwaf-r2vSkiuggjdFAMa_Xk9SZdLqGvRSFWg/viewform?embedded=true" width="640" height="3186" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 <!-- Monday, May 9th:
 
 [Pengshan Pan](https://www.cgm.pitt.edu/people/ant-26) (Pittsburgh), presents:
