@@ -9,6 +9,7 @@ Meetings are on Tuesdays at 3 pm (EST). We will send the Zoom link on the day of
 **Schedule:**
 
 September 6 - [Rachel Schoner](https://sites.google.com/view/racheljschoner/) (Job Talk)
+"[Naming and Shaming in the Human Rights Committee: Individual Petitions’ Effect on Human Rights](https://io-workshop.github.io/files/Schoner_JMP.pdf)"
 
 September 20 - [Tyler Pratt](https://www.tylerbpratt.com/) & [Timon Forster](http://www.timonforster.net/) (2 Short Talks)
 
