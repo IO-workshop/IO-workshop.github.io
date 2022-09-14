@@ -15,6 +15,12 @@ September 6 - [Rachel Schoner](https://sites.google.com/view/racheljschoner/) (J
 
 September 20 - [Tyler Pratt](https://www.tylerbpratt.com/) & [Timon Forster](http://www.timonforster.net/) (2 Short Talks)
 
+"[Fighting Facts or Fighting Norms: Contestation Over International Law Violations](https://io-workshop.github.io/files/MorsePratt_FactsorNorms.pdf)" by Julia C. Morse and Tyler Pratt
+&nbsp;
+
+"[Respected individuals: How state representatives wield outsize influence in international organizations](https://io-workshop.github.io/files/Forster2022_RespectedIndividuals.pdf)" by Timon Forster
+&nbsp;
+
 October 4 - [Averell Schmidt](https://www.averellschmidt.org/) (Job Talk)
 
 October 18 - [Andrew McWard](https://www.andrewmcward.com/) (Job Talk)
