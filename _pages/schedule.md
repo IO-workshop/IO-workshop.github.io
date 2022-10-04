@@ -23,6 +23,9 @@ September 20 - [Tyler Pratt](https://www.tylerbpratt.com/) & [Timon Forster](htt
 
 October 4 - [Averell Schmidt](https://www.averellschmidt.org/) (Job Talk)
 
+"[How Treaty Withdrawal Impacts International Cooperation](https://osf.io/preprints/socarxiv/meyau/)" by Averell Schmidt
+&nbsp;
+
 October 18 - [Andrew McWard](https://www.andrewmcward.com/) (Job Talk)
 
 November 1 - [Lucie Lu](https://lucielu.net/) (Job Talk)
