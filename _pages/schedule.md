@@ -28,6 +28,9 @@ October 4 - [Averell Schmidt](https://www.averellschmidt.org/) (Job Talk)
 
 October 18 - [Andrew McWard](https://www.andrewmcward.com/) (Job Talk)
 
+"[Allies of Convenience: How NGOs and the United States Cooperate to Control Intergovernmental Organizations](https://io-workshop.github.io/files/McWard_2022.pdf)" by Andrew McWard
+&nbsp;
+
 November 1 - [Lucie Lu](https://lucielu.net/) (Job Talk)
 
 November 15 - [Raymond Wang](https://polisci.mit.edu/people/raymond-wang) & [Stefanie Kasparek](https://stefaniekasparek.com/) (2 Short Talks)
