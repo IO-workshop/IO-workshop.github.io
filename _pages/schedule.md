@@ -32,8 +32,12 @@ October 18 - [Andrew McWard](https://www.andrewmcward.com/) (Job Talk)
 &nbsp;
 
 November 1 - [Lucie Lu](https://lucielu.net/) (Job Talk)
+Rescheduled to next semester.
 
 November 15 - [Raymond Wang](https://polisci.mit.edu/people/raymond-wang) & [Stefanie Kasparek](https://stefaniekasparek.com/) (2 Short Talks)
+
+"[Building a new stove: how rising powers shape international order](https://io-workshop.github.io/files/wang_dv_chapter_io_workshop.pdf)" by Raymond Wang
+&nbsp;
 
 November 29 - [Dionys Zink](https://www.en.gsi.uni-muenchen.de/people/academic/dionys-zink/index.html) & [Mike Denly](https://mikedenly.com/)(2 Short Talks)
 
