@@ -39,9 +39,18 @@ November 15 - [Raymond Wang](https://polisci.mit.edu/people/raymond-wang) & [Ste
 "[Building a new stove: how rising powers shape international order](https://io-workshop.github.io/files/wang_dv_chapter_io_workshop.pdf)" by Raymond Wang
 &nbsp;
 
-November 29 - [Dionys Zink](https://www.en.gsi.uni-muenchen.de/people/academic/dionys-zink/index.html) & [Mike Denly](https://mikedenly.com/)(2 Short Talks)
+November 29 - [Mike Denly](https://mikedenly.com/)(1 Short Talk)
 
 December 13 - [Vegard Torstad](http://www.vegardtorstad.com/) & [Mona Saleh](https://www.giga-hamburg.de/en/the-giga/team/saleh-mona) (2 Short Talks)
+
+"[Commitment Ambiguity and Prudence in Climate Pledges](https://io-workshop.github.io/files/torstad_wiborg_commitment-ambiguity-dec22.pdf)" by Vegard Tørstad and Vegard Wiborg
+&nbsp;
+
+"[Legitimation by differentiation: How do International Organizations Claim Legitimacy in Complexity?](https://io-workshop.github.io/files/Saleh_Mona_draft paper IO JS.pdf)" by Mona Saleh
+&nbsp;
+
+
+
 <!-- Meetings are scheduled on Mondays at noon US eastern time, unless otherwise noted. The Zoom address will be made available to participants ahead of each meeting. -->
 
 
