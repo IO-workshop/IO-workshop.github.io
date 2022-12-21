@@ -5,19 +5,20 @@ permalink: /paper/
 author_profile: true
 ---
 
-**Call for Papers (2022):**
+**Call for Papers (Sp. 2023):**
 
-We have set the workshop series for Fall 2022. Please refer to the "Schedule" tab above for more information.
+<!--- We have set the workshop series for Fall 2022. Please refer to the "Schedule" tab above for more information.--->
 
-<!-- The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. This workshop will be an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests.
+The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. This workshop will be an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests. We are excited to be soliciting calls for participation for our second semester!
 
-We are seeking submissions from people interested in presenting their work or discussing others’ works this fall, as well as non-presenting participants at any stage in their careers. We welcome longer-form practice job talk presentations (~45 minutes) as well as shorter presentations of works in progress (~20 minutes). Presentations will be followed by time for Q&A. Participants are expected to read the papers before the workshop. The tentative dates for the fall semester presentations are 9/6, 9/20, 10/4, 10/18, 11/1, 11/15, 11/29, and 12/13 at 4:00pm Eastern.
+We welcome longer-form practice job talk presentations (~45 minutes) as well as shorter presentations of works in progress (~20 minutes). Presentations will be followed by Q&A. Participants are expected to read the papers before the workshop. The tentative dates for the spring semester presentations are January 24, February 7, February 21, March 7, March 21, April 4, April 18, and May 2 at 3:00 pm Eastern.
 
-We encourage submissions from people working on work related to international organizations, broadly defined, inclusive of international law, foreign policy, and related areas. We also welcome different types of research, including theoretical, interdisciplinary, empirical, and policy oriented works, as well as pre-analysis plans and research designs.
+We encourage submissions from people working on work related to international organizations, broadly defined, inclusive of international law, foreign policy, and related areas. We also welcome different types of research, including theoretical, interdisciplinary, empirical, and policy-oriented works, as well as pre-analysis plans and research designs. We are committed to promoting the work and voices of Black, Indigenous, scholars of color, and women scholars.
 
-To participate in our fall workshop series in presenting your work, discussing others’ works, or being a non-presenting participants, please sign up below:
+Please use the below form to indicate if you are interested in presenting your work, discussing others’ works, or being a non-presenting participant. If you are interested in presenting, please respond by **11:59 pm Pacific Time on December 29**.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNvav3X8EwSUUwaf-r2vSkiuggjdFAMa_Xk9SZdLqGvRSFWg/viewform?embedded=true" width="640" height="3186" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSflwEHckLOv-YIMGvUQJk5JsgZzWb2SRZmI2nshJopnN_EbUA/viewform?embedded=true" width="640" height="3186" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 <!-- Monday, May 9th:
 
 [Pengshan Pan](https://www.cgm.pitt.edu/people/ant-26) (Pittsburgh), presents:
