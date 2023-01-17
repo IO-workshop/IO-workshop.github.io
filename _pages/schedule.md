@@ -8,7 +8,12 @@ Meetings are on Tuesdays at 3 pm (EST). We will send the Zoom link on the day of
 
 **Schedule:**
 
-September 6 - [Rachel Schoner](https://sites.google.com/view/racheljschoner/) (Job Talk)
+January 24 - [Willow Kreutzer](https://willowkreutzer.weebly.com/)
+
+"[CEDAW Reservation Reversal](https://io-workshop.github.io/files/CEDAW Reservations - Kreutzer Jr IO.pdf)" by Rachel Schoner
+&nbsp;
+
+<!--September 6 - [Rachel Schoner](https://sites.google.com/view/racheljschoner/) (Job Talk)
 
 "[Naming and Shaming in the Human Rights Committee: Individual Petitions’ Effect on Human Rights](https://io-workshop.github.io/files/Schoner_JMP.pdf)" by Rachel Schoner
 &nbsp;
@@ -47,7 +52,7 @@ December 13 - [Vegard Torstad](http://www.vegardtorstad.com/) & [Mona Saleh](htt
 &nbsp;
 
 "[Legitimation by differentiation: How do International Organizations Claim Legitimacy in Complexity?](https://io-workshop.github.io/files/Saleh_Mona_draft paper IO JS.pdf)" by Mona Saleh
-&nbsp;
+&nbsp; -->
 
 
 
