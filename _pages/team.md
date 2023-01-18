@@ -25,6 +25,14 @@ Sky Kunkel (Purdue University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.skytheacademic.com"}}'><i class='fas fa-user'></i> [website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:kunkel3@purdue.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
+Anna Marie Obermeier (PRIO)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.prio.org/people/11970"}}'><i class='fas fa-user'></i> [website]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:annobe@prio.org"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+
 Joshua Turner (SUNY Buffalo)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.joshuaaturner.com/"}}'><i class='fas fa-user'></i> [website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:turner2@buffalo.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+
+Nila Zarepour-Arizi (Texas Tech University)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.depts.ttu.edu/politicalscience/Graduate_Students/Current_Grad_Students.php"}}'><i class='fas fa-user'></i> [website]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:nila.zarepour-arizi@ttu.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
