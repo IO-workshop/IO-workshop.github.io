@@ -10,8 +10,18 @@ Meetings are on Tuesdays at 3 pm (EST). We will send the Zoom link on the day of
 
 January 24 - [Willow Kreutzer](https://willowkreutzer.weebly.com/)
 
-"[CEDAW Reservation Reversal](https://io-workshop.github.io/files/CEDAW Reservations - Kreutzer Jr IO.pdf)" by Rachel Schoner
+"[CEDAW Reservation Reversal](https://io-workshop.github.io/files/CEDAW Reservations - Kreutzer Jr IO.pdf)" by Willow Kreutzer
 &nbsp;
+
+March 7 - [Lucie Lu](https://lucielu.net/) & [Stephanie Kasparek](https://stefaniekasparek.com/) (2 short talks)
+
+March 21 at 1 pm- [Sujeong Shim](https://www.sujeongshim.com/)  & [Tuuli-Anna Huikuri](https://sites.google.com/view/tuuliannahuikuri?pli=1)
+
+April 4 - [Ruofan Ma](https://twitter.com/ruofan_ma) & [Philipp Bien](https://www.polver.uni-konstanz.de/en/malang0/) (2 short talks)
+
+April 18 - [Lorenzo Crippa](https://lorenzo-crippa.github.io/) & [Sojun Park](https://sites.google.com/view/sojunp/home) / [Minju Kim](https://www.maxwell.syr.edu/directory/minju-kim) (2 short talks)
+
+May 2 - [Bi Zhao](https://www.bi-zhao.com/) & [J. Luis Rodriguez](https://www.jluisrodriguez.com/) (2 short talks)
 
 <!--September 6 - [Rachel Schoner](https://sites.google.com/view/racheljschoner/) (Job Talk)
 
