@@ -13,7 +13,7 @@ January 24 - [Willow Kreutzer](https://willowkreutzer.weebly.com/)
 "[CEDAW Reservation Reversal](https://io-workshop.github.io/files/CEDAW Reservations - Kreutzer Jr IO.pdf)" by Willow Kreutzer
 &nbsp;
 
-March 7 - [Lucie Lu](https://lucielu.net/) & [Stephanie Kasparek](https://stefaniekasparek.com/) (2 short talks)
+March 7 - [Lucie Lu](https://lucielu.net/) & [Stefanie Kasparek](https://stefaniekasparek.com/) (2 short talks)
 
 March 21 at 1 pm- [Sujeong Shim](https://www.sujeongshim.com/)  & [Tuuli-Anna Huikuri](https://sites.google.com/view/tuuliannahuikuri?pli=1)
 
