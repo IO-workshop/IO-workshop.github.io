@@ -15,6 +15,9 @@ January 24 - [Willow Kreutzer](https://willowkreutzer.weebly.com/)
 
 March 7 - [Lucie Lu](https://lucielu.net/) & [Stefanie Kasparek](https://stefaniekasparek.com/) (2 short talks)
 
+"[Strategic Socialization: How China Shapes International Human Rights Regime](https://io-workshop.github.io/files/Lucie_Junior IO Workshop_updated.pdf)" by Lucie Lu
+&nbsp;
+
 March 21 at 1 pm- [Sujeong Shim](https://www.sujeongshim.com/)  & [Tuuli-Anna Huikuri](https://sites.google.com/view/tuuliannahuikuri?pli=1)
 
 April 4 - [Ruofan Ma](https://twitter.com/ruofan_ma) & [Philipp Bien](https://www.polver.uni-konstanz.de/en/malang0/) (2 short talks)
