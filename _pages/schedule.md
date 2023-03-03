@@ -18,6 +18,9 @@ March 7 - [Lucie Lu](https://lucielu.net/) & [Stefanie Kasparek](https://stefani
 "[Strategic Socialization: How China Shapes International Human Rights Regime](https://io-workshop.github.io/files/Lucie_Junior IO Workshop_updated.pdf)" by Lucie Lu
 &nbsp;
 
+"[Behind Closed Doors: Informal Governance and Agenda-Setting in the United Nations Security](https://io-workshop.github.io/files/Junior Symposium Paper_Draft_Kasparek.pdf)" by Stefanie Kasparek
+&nbsp;
+
 March 21 at 1 pm- [Sujeong Shim](https://www.sujeongshim.com/)  & [Tuuli-Anna Huikuri](https://sites.google.com/view/tuuliannahuikuri?pli=1)
 
 April 4 - [Ruofan Ma](https://twitter.com/ruofan_ma) & [Philipp Bien](https://www.polver.uni-konstanz.de/en/malang0/) (2 short talks)
