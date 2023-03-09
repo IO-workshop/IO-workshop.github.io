@@ -27,7 +27,7 @@ April 4 - [Ruofan Ma](https://twitter.com/ruofan_ma) & [Philipp Bien](https://ww
 
 April 18 - [Lorenzo Crippa](https://lorenzo-crippa.github.io/) & [Sojun Park](https://sites.google.com/view/sojunp/home) / [Minju Kim](https://www.maxwell.syr.edu/directory/minju-kim) (2 short talks)
 
-May 2 - [Bi Zhao](https://www.bi-zhao.com/) & [J. Luis Rodriguez](https://www.jluisrodriguez.com/) (2 short talks)
+May 2 @ **11:00 AM EST** - [Bi Zhao](https://www.bi-zhao.com/) & [J. Luis Rodriguez](https://www.jluisrodriguez.com/) (2 short talks)
 
 <!--September 6 - [Rachel Schoner](https://sites.google.com/view/racheljschoner/) (Job Talk)
 
