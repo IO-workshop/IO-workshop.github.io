@@ -21,7 +21,10 @@ March 7 - [Lucie Lu](https://lucielu.net/) & [Stefanie Kasparek](https://stefani
 "[Behind Closed Doors: Informal Governance and Agenda-Setting in the United Nations Security](https://io-workshop.github.io/files/Junior Symposium Paper_Draft_Kasparek.pdf)" by Stefanie Kasparek
 &nbsp;
 
-March 21 at 1 pm- [Sujeong Shim](https://www.sujeongshim.com/)  & [Tuuli-Anna Huikuri](https://sites.google.com/view/tuuliannahuikuri?pli=1)
+March 21 at **1 pm**- [Sujeong Shim](https://www.sujeongshim.com/)  & [Tuuli-Anna Huikuri](https://sites.google.com/view/tuuliannahuikuri?pli=1)
+
+"[Never Let Me Go: Exit Clauses in International Investment Agreements](https://io-workshop.github.io/files/HuikuriShim_Exit Clauses_20230103.pdf)" by Tuuli-Anna Huikuri & Sujeong Shim
+&nbsp;
 
 April 4 - [Ruofan Ma](https://twitter.com/ruofan_ma) & [Philipp Bien](https://www.polver.uni-konstanz.de/en/malang0/) (2 short talks)
 
