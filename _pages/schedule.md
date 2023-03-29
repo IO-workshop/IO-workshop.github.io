@@ -26,7 +26,10 @@ March 21 at **1 pm**- [Sujeong Shim](https://www.sujeongshim.com/)  & [Tuuli-Ann
 "[Never Let Me Go: Exit Clauses in International Investment Agreements](https://io-workshop.github.io/files/HuikuriShim_Exit Clauses_20230103.pdf)" by Tuuli-Anna Huikuri & Sujeong Shim
 &nbsp;
 
-April 4 - [Ruofan Ma](https://twitter.com/ruofan_ma) & [Philipp Bien](https://www.polver.uni-konstanz.de/en/malang0/) (2 short talks)
+April 4 - [Ruofan Ma](https://twitter.com/ruofan_ma)
+
+"[Weak Institution, Weak Compliance? How ILO Reporting Improves Collective Labor Rights](https://io-workshop.github.io/files/JuniorIO_draft.pdf)" by Ruofan Ma
+&nbsp;
 
 April 18 - [Lorenzo Crippa](https://lorenzo-crippa.github.io/) & [Sojun Park](https://sites.google.com/view/sojunp/home) / [Minju Kim](https://www.maxwell.syr.edu/directory/minju-kim) (2 short talks)
 
