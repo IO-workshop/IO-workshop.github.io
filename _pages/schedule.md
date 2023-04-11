@@ -31,7 +31,13 @@ April 4 - [Ruofan Ma](https://twitter.com/ruofan_ma)
 "[Weak Institution, Weak Compliance? How ILO Reporting Improves Collective Labor Rights](https://io-workshop.github.io/files/JuniorIO_draft.pdf)" by Ruofan Ma
 &nbsp;
 
-April 18 - [Lorenzo Crippa](https://lorenzo-crippa.github.io/) & [Sojun Park](https://sites.google.com/view/sojunp/home) / [Minju Kim](https://www.maxwell.syr.edu/directory/minju-kim) (2 short talks)
+April 18 - [Lorenzo Crippa](https://lorenzo-crippa.github.io/) / [Professor Patrick Bayer](https://www.patrickbayer.com/) & [Sojun Park](https://sites.google.com/view/sojunp/home) / [Minju Kim](https://www.maxwell.syr.edu/directory/minju-kim) (2 short talks)
+
+"[Government Interference in International Organization’s Information Production](https://io-workshop.github.io/files/BC_IPCC_main.pdf)" by Lorenzo Crippa and Patrick Bayer
+&nbsp;
+
+"[International Bureaucrats under the Spotlight: The Case of the WTO TRIPS Council](https://io-workshop.github.io/files/transparency%20(Park%20and%20Kim,%2004.11.23).pdf)" by Sojun Park and Minju Kim
+&nbsp;
 
 May 2 @ **11:00 AM EST** - [Bi Zhao](https://www.bi-zhao.com/) & [J. Luis Rodriguez](https://www.jluisrodriguez.com/) (2 short talks)
 
