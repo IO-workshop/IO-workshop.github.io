@@ -41,6 +41,9 @@ April 18 - [Lorenzo Crippa](https://lorenzo-crippa.github.io/) / [Professor Patr
 
 May 2 @ **11:00 AM EST** - [Bi Zhao](https://www.bi-zhao.com/) & [J. Luis Rodriguez](https://www.jluisrodriguez.com/) (2 short talks)
 
+"[Negotiated Inequality: Developing Countries and the Making of the Nuclear Club](https://io-workshop.github.io/files/Rodriguez - Negotiated Inequality - April 20, 2023.pdf)" by J. Luis Rodriguez
+&nbsp;
+
 <!--September 6 - [Rachel Schoner](https://sites.google.com/view/racheljschoner/) (Job Talk)
 
 "[Naming and Shaming in the Human Rights Committee: Individual Petitions’ Effect on Human Rights](https://io-workshop.github.io/files/Schoner_JMP.pdf)" by Rachel Schoner
