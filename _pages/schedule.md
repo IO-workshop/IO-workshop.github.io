@@ -41,6 +41,9 @@ April 18 - [Lorenzo Crippa](https://lorenzo-crippa.github.io/) / [Professor Patr
 
 May 2 @ **11:00 AM EST** - [Bi Zhao](https://www.bi-zhao.com/) & [J. Luis Rodriguez](https://www.jluisrodriguez.com/) (2 short talks)
 
+"[Climate change discourse at the UNFCCC: Who drives the climate frames?](https://io-workshop.github.io/files/ClimateFrames_ShibaikeZhao_Apr2023.pdf)" by Bi Zhao and Takumi Shibaike
+&nbsp;
+
 "[Negotiated Inequality: Developing Countries and the Making of the Nuclear Club](https://io-workshop.github.io/files/Rodriguez - Negotiated Inequality - April 20, 2023.pdf)" by J. Luis Rodriguez
 &nbsp;
 
