@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Junior IO Scholars Workshop"
-  avatar           : "evergiven.JPEG"
+  avatar           : "./images/evergiven.JPEG"
   bio              : "Join us for workshops and more with a network of junior scholars in International Organizations research!"
   location         : "Virtual"
   employer         :
