@@ -39,6 +39,6 @@ Sabrina Arias <br>
 
 Valerie de Koeijer <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*PhD*: Johns Hopkins University.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Affiliation(s)*: Leiden University Assistant Professor at the Institute of Security and Global <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Affairs (2023 - Present).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Affiliation(s)*: Leiden University Assistant Professor at the Institute of Security and <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Global Affairs (2023 - Present).
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.universiteitleiden.nl/en/staffmembers/valerie-de-koeijer"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:vdekoei1@jhu.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
