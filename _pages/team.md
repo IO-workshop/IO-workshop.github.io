@@ -34,44 +34,38 @@ Nila Zarepour-Arizi (Texas Tech University)
   <h2>Former Team Members</h2>
 
   <div class="member-card">
-    <img src="sabrina_arias.jpg" alt="Sabrina Arias" class="profile-picture">
-    <div class="member-details">
-      <h3>Sabrina Arias</h3>
-      <p>
-        <strong>PhD:</strong> University of Pennsylvania<br>
-        <strong>Affiliation:</strong> XYZ Organization
-      </p>
-      <div class="member-links">
-        <a href="https://www.sabrinabarias.com/">[Website]</a>
-        <a href="mailto:sbarias20@gmail.com">[Email]</a>
-      </div>
+    <h3>Sabrina Arias</h3>
+    <p>
+      <strong>PhD:</strong> University of Pennsylvania<br>
+      <strong>Affiliation:</strong> Princeton Niehaus Center for Globalization & Governance Postdoctoral Fellowship (2023-24)
+      Lehigh University Assistant Professor (2024-).
+    </p>
+    <div class="member-links">
+      <a href="https://www.sabrinabarias.com/"><i class="fas fa-user"></i> [Website]</a>
+      <a href="mailto:sbarias20@gmail.com"><i class="fas fa-envelope"></i> [Email]</a>
     </div>
   </div>
 
   <div class="member-card">
-    <img src="valerie_de_koeijer.jpg" alt="Valerie de Koeijer" class="profile-picture">
-    <div class="member-details">
-      <h3>Valerie de Koeijer</h3>
-      <p>
-        <strong>PhD:</strong> Johns Hopkins University<br>
-        <strong>Affiliation:</strong> ABC Organization
-      </p>
-      <div class="member-links">
-        <a href="https://politicalscience.jhu.edu/directory/valerie-de-koeijer/">[Website]</a>
-        <a href="mailto:vdekoei1@jhu.edu">[Email]</a>
-      </div>
+    <h3>Valerie de Koeijer</h3>
+    <p>
+      <strong>PhD:</strong> Johns Hopkins University<br>
+      <strong>Affiliation:</strong> Leiden University Assistant Professor at the Institute of Security and Global Affairs (2023 - Present).
+    </p>
+    <div class="member-links">
+      <a href="https://politicalscience.jhu.edu/directory/valerie-de-koeijer/"><i class="fas fa-user"></i> [Website]</a>
+      <a href="mailto:vdekoei1@jhu.edu"><i class="fas fa-envelope"></i> [Email]</a>
     </div>
   </div>
 </div>
 
 
 
-## Former Team Members
-
+<!--
 Sabrina Arias (UPenn)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.sabrinabarias.com/"}}'><i class='fas fa-user'></i> [website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:sbarias20@gmail.com"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
 Valerie de Koeijer (Johns Hopkins University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.universiteitleiden.nl/en/staffmembers/valerie-de-koeijer"}}'><i class='fas fa-user'></i> [website]</a></span>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:vdekoei1@jhu.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:vdekoei1@jhu.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span> -->
