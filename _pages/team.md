@@ -34,9 +34,9 @@ Nila Zarepour-Arizi (Texas Tech University)
   <h2>Former Team Members</h2>
 
   <div class="member-card">
-    <h3>Sabrina Arias</h3>
+    Sabrina Arias
     <p>
-      <strong>PhD:</strong> University of Pennsylvania<br>
+      <strong>PhD:</strong> University of Pennsylvania.<br>
       <strong>Affiliation:</strong> Princeton Niehaus Center for Globalization & Governance Postdoctoral Fellowship (2023-24)<br>
       Lehigh University Assistant Professor (2024-).
     </p>
@@ -47,9 +47,9 @@ Nila Zarepour-Arizi (Texas Tech University)
   </div>
 
   <div class="member-card">
-    <h3>Valerie de Koeijer</h3>
+    Valerie de Koeijer
     <p>
-      <strong>PhD:</strong> Johns Hopkins University<br>
+      <strong>PhD:</strong> Johns Hopkins University.<br>
       <strong>Affiliation:</strong> Leiden University Assistant Professor at the Institute of Security and Global Affairs (2023 - Present).
     </p>
     <div class="member-links">
