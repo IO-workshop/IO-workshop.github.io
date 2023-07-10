@@ -5,19 +5,19 @@ permalink: /paper/
 author_profile: true
 ---
 
-**Call for Papers (Sp. 2023):**
+**Call for Papers (Fall. 2023):**
 
-We have set the workshop series for Spring 2023. Please refer to the "Schedule" tab above for more information.
+<!-- We have set the workshop series for Spring 2023. Please refer to the "Schedule" tab above for more information. -->
 
-<!-- The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. This workshop will be an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests. We are excited to be soliciting calls for participation for our second semester!
+The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. This workshop will be an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests. We are excited to be soliciting calls for participation for our second year!
 
-We welcome longer-form practice job talk presentations (~45 minutes) as well as shorter presentations of works in progress (~20 minutes). Presentations will be followed by Q&A. Participants are expected to read the papers before the workshop. The tentative dates for the spring semester presentations are January 24, February 7, February 21, March 7, March 21, April 4, April 18, and May 2 at 3:00 pm Eastern.
+We welcome longer-form practice job talk presentations (~45 minutes) as well as shorter presentations of works in progress (~15 minutes). Presentations will be followed by Q&A. Participants are expected to read the papers before the workshop. The tentative dates for the spring semester presentations are Sep. 5, Sep. 19, Oct. 3, Oct. 17, Oct. 31, Nov. 7, Nov. 28 at 3:00 pm Eastern.
 
 We encourage submissions from people working on work related to international organizations, broadly defined, inclusive of international law, foreign policy, and related areas. We also welcome different types of research, including theoretical, interdisciplinary, empirical, and policy-oriented works, as well as pre-analysis plans and research designs. We are committed to promoting the work and voices of Black, Indigenous, scholars of color, and women scholars.
 
-Please use the below form to indicate if you are interested in presenting your work, discussing others’ works, or being a non-presenting participant. If you are interested in presenting, please respond by **11:59 pm Pacific Time on December 29**.
+Please use the below form to indicate if you are interested in presenting your work, discussing others’ works, or being a non-presenting participant. If you are interested in presenting, please respond by **11:59 pm Pacific Time on July 31**.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSflwEHckLOv-YIMGvUQJk5JsgZzWb2SRZmI2nshJopnN_EbUA/viewform?embedded=true" width="640" height="3186" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe-9XGbbnsAyBGWe2Efwp6BC1hqc8pdvgLVI410gBVrPvcmcQ/viewform?embedded=true" width="640" height="2936" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <!-- Monday, May 9th:
 
