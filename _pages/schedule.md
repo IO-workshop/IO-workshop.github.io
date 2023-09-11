@@ -13,6 +13,21 @@ September 5 @ **1 pm** - [Jing Qian](https://jingqian.org/) (Practice Job Talk)
 "[Treaty Shopping, Race to the Bottom, and Treaty Cascades](https://io-workshop.github.io/files/Qian_BTT Cascade_Junior IO 2023.pdf)" by Jing Qian
 &nbsp;
 
+September 19 - [Aila Trasi](https://politicalscience.jhu.edu/directory/aila-trasi/) (Short Talk)
+
+October 3 - (2 Short Talks)
+- [Andrea Knapp](https://www.unibo.it/sitoweb/andrea.knapp2/en)
+- [Michael McCall](https://www.mccall.cc/)
+
+October 17 - [Bo Won Kim](https://www.bowonkim.com/) (Practice Job Talk)
+
+October 31 - (2 Short Talks)
+- [Philipp Bien](https://twitter.com/philipp_bien?lang=en)
+- [Darrell Carter](https://twitter.com/d_carterpolisci?lang=en)
+
+November 7 - TBD
+
+November 28 - TBD
 
 <!--September 6 - [Rachel Schoner](https://sites.google.com/view/racheljschoner/) (Job Talk)
 
