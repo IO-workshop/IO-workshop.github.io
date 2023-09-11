@@ -8,7 +8,7 @@ Meetings are on Tuesdays at 3 pm (EST). We will send the Zoom link on the day of
 
 **Schedule:**
 
-September 5 - [Jing Qian](https://jingqian.org/) (Job Talk)
+September 5 @ **1 pm** - [Jing Qian](https://jingqian.org/) (Practice Job Talk)
 
 "[Treaty Shopping, Race to the Bottom, and Treaty Cascades](https://io-workshop.github.io/files/Qian_BTT Cascade_Junior IO 2023.pdf)" by Jing Qian
 &nbsp;
