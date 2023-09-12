@@ -27,7 +27,7 @@ October 31 - (2 Short Talks)
 
 November 7 - TBD
 
-November 28 - TBD
+November 28 - [Christina A. Boyes](https://christinaaboyes.weebly.com/) (Short Talk)
 
 <!--September 6 - [Rachel Schoner](https://sites.google.com/view/racheljschoner/) (Job Talk)
 
