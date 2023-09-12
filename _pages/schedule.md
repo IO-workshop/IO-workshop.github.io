@@ -22,7 +22,7 @@ October 3 - (2 Short Talks)
 October 17 - [Bo Won Kim](https://www.bowonkim.com/) (Practice Job Talk)
 
 October 31 - (2 Short Talks)
-- [Philipp Bien](https://twitter.com/philipp_bien?lang=en)
+- [Philipp Bien](https://www.polver.uni-konstanz.de/en/malang0/team/academic-staff/philipp-bien/)
 - [Darrell Carter](https://twitter.com/d_carterpolisci?lang=en)
 
 November 7 - TBD
