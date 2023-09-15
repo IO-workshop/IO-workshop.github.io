@@ -15,6 +15,9 @@ September 5 @ **1 pm** - [Jing Qian](https://jingqian.org/) (Practice Job Talk)
 
 September 19 - [Aila Trasi](https://politicalscience.jhu.edu/directory/aila-trasi/) (Short Talk)
 
+"[Making State Projects: Malaysia, the IMF, and the Puzzle of Self-Imposed Structural Adjustment](https://io-workshop.github.io/files/Jr. IO scholar workshop_Trasi.pdf)" by Aila Trasi
+
+
 October 3 - (2 Short Talks)
 - [Andrea Knapp](https://www.unibo.it/sitoweb/andrea.knapp2/en)
 - [Michael McCall](https://www.mccall.cc/)
