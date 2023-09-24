@@ -28,7 +28,7 @@ October 31 - (2 Short Talks)
 - [Philipp Bien](https://www.polver.uni-konstanz.de/en/malang0/team/academic-staff/philipp-bien/)
 - [Darrell Carter](https://twitter.com/d_carterpolisci?lang=en)
 
-November 7 - TBD
+November 7 - [Jihyeon Bae](https://www.polisci.washington.edu/people/jihyeon-bae) (Short Talk)
 
 November 28 - [Christina A. Boyes](https://christinaaboyes.weebly.com/) (Short Talk)
 
