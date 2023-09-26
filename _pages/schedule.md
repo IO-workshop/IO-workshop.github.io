@@ -19,16 +19,16 @@ September 19 - [Aila Trasi](https://politicalscience.jhu.edu/directory/aila-tras
 
 
 October 3 - (2 Short Talks)
-- [Andrea Knapp](https://www.unibo.it/sitoweb/andrea.knapp2/en)
-- [Michael McCall](https://www.mccall.cc/)
+- ["Negotiating civilian protection: Who shapes the language of United Nations Security Council resolutions (1990-2019)?"](https://io-workshop.github.io/files/Knapp_JuniorIO.pdf) by [Andrea Knapp](https://www.unibo.it/sitoweb/andrea.knapp2/en)
+- ["Do IGOs socialize member states? A collection of synthetic control models"](https://io-workshop.github.io/files/IGO-synthetic_control.pdf) by [Michael McCall](https://www.mccall.cc/)
 
 October 17 - [Bo Won Kim](https://www.bowonkim.com/) (Practice Job Talk)
 
-October 31 - (2 Short Talks)
-- [Philipp Bien](https://www.polver.uni-konstanz.de/en/malang0/team/academic-staff/philipp-bien/)
-- [Darrell Carter](https://twitter.com/d_carterpolisci?lang=en)
+October 31 - [Philipp Bien](https://www.polver.uni-konstanz.de/en/malang0/team/academic-staff/philipp-bien/) (Short Talk)
 
-November 7 - [Jihyeon Bae](https://www.polisci.washington.edu/people/jihyeon-bae) (Short Talk)
+November 7 - (2 Short Talks)
+- [Jihyeon Bae](https://www.polisci.washington.edu/people/jihyeon-bae)
+- [Darrell Carter](https://twitter.com/d_carterpolisci?lang=en)
 
 November 28 - [Christina A. Boyes](https://christinaaboyes.weebly.com/) (Short Talk)
 
