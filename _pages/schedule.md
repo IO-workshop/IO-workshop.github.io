@@ -23,6 +23,7 @@ October 3 - (2 Short Talks)
 - ["Do IGOs socialize member states? A collection of synthetic control models"](https://io-workshop.github.io/files/IGO-synthetic_control.pdf) by [Michael McCall](https://www.mccall.cc/)
 
 October 17 - [Bo Won Kim](https://www.bowonkim.com/) (Practice Job Talk)
+
 "[Is One for All Good For All? How Consensus Norms in Negotiations Shape the Design of International Agreements](https://io-workshop.github.io/files/Writing Sample - Dissertation Chapter.pdf)" by Bo Won Kim
 
 October 31 - [Philipp Bien](https://www.polver.uni-konstanz.de/en/malang0/team/academic-staff/philipp-bien/) (Short Talk)
