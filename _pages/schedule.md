@@ -28,6 +28,8 @@ October 17 - [Bo Won Kim](https://www.bowonkim.com/) (Practice Job Talk)
 
 October 31 - [Philipp Bien](https://www.polver.uni-konstanz.de/en/malang0/team/academic-staff/philipp-bien/) (Short Talk)
 
+"[International Parliamentary Institutions and their effects on citizens’ legitimacy perceptions of International Organizations](https://io-workshop.github.io/files/WorkingPaper161023.pdf)" by Philipp Bien
+
 November 7 - (2 Short Talks)
 - [Jihyeon Bae](https://www.polisci.washington.edu/people/jihyeon-bae)
 - [Darrell Carter](https://twitter.com/d_carterpolisci?lang=en)
