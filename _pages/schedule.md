@@ -30,9 +30,9 @@ October 31 - [Philipp Bien](https://www.polver.uni-konstanz.de/en/malang0/team/a
 
 "[International Parliamentary Institutions and their effects on citizens’ legitimacy perceptions of International Organizations](https://io-workshop.github.io/files/WorkingPaper161023.pdf)" by Philipp Bien
 
-November 7 - (2 Short Talks)
-- [Jihyeon Bae](https://www.polisci.washington.edu/people/jihyeon-bae)
-- [Darrell Carter](https://twitter.com/d_carterpolisci?lang=en)
+November 7 @ **3:45 pm** - [Darrell Carter](https://twitter.com/d_carterpolisci?lang=en) (Short Talk)
+
+"[Death and Evolution: Impact of Institutional Design on International Organizations](https://io-workshop.github.io/files/Darrell Carter - IGO Death Draft v2.pdf)" by Darrell Carter
 
 November 28 - [Christina A. Boyes](https://christinaaboyes.weebly.com/) (Short Talk)
 
