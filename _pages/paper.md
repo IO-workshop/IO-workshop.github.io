@@ -7,23 +7,14 @@ author_profile: true
 
 **Call for Papers (Fall. 2023):**
 
-We have set the workshop series for Fall 2023. Please refer to the "Schedule" tab above for more information.
+<!-- We have set the workshop series for Fall 2023. Please refer to the "Schedule" tab above for more information. -->
 
-<!-- The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. This workshop will be an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests. We are excited to be soliciting calls for participation for our second year!
+The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. This workshop will be an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests. We are excited to be soliciting calls for participation for our second year!
 
-We welcome longer-form practice job talk presentations (~45 minutes) as well as shorter presentations of works in progress (~15 minutes). Presentations will be followed by Q&A. Participants are expected to read the papers before the workshop. The tentative dates for the spring semester presentations are Sep. 5, Sep. 19, Oct. 3, Oct. 17, Oct. 31, Nov. 7, Nov. 28 at 3:00 pm Eastern.
+We welcome longer-form practice job talk presentations (~45 minutes) as well as shorter presentations of works in progress (~15 minutes). Presentations will be followed by time for Q&A. We encourage participants to read the papers before the workshop. The tentative dates for the spring semester presentations are January 23, February 6, February 20, March 5, March 19, April 16, and April 30 at 12 pm EST.
 
 We encourage submissions from people working on work related to international organizations, broadly defined, inclusive of international law, foreign policy, and related areas. We also welcome different types of research, including theoretical, interdisciplinary, empirical, and policy-oriented works, as well as pre-analysis plans and research designs. We are committed to promoting the work and voices of Black, Indigenous, scholars of color, and women scholars.
 
-Please use the below form to indicate if you are interested in presenting your work, discussing others’ works, or being a non-presenting participant. If you are interested in presenting, please respond by **11:59 pm Pacific Time on July 31**.
+Please use the below form to indicate if you are interested in presenting your work, discussing others’ works, or being a non-presenting participant. If you are interested in presenting, please respond by **11:59 pm Eastern Time on December 22**.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe-9XGbbnsAyBGWe2Efwp6BC1hqc8pdvgLVI410gBVrPvcmcQ/viewform?embedded=true" width="640" height="2936" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
-
-<!-- Monday, May 9th:
-
-[Pengshan Pan](https://www.cgm.pitt.edu/people/ant-26) (Pittsburgh), presents:
-
-**Title:** ["*Foreign Mining, Labor Welfare and Local Trust: Evidence from Kyrgyzstan Gold Mine*"](https://gsipe-workshop.github.io/files/paper_gsipe_workshop.pdf)
-
-**Abstract:**
-There has been controversy over the impact of foreign natural resource investment on worker welfare and host country politics. This paper explores this question by analyzing Kyrgyzstan’s dominant foreign invested gold mine, which accounted for 12.5% of Kyrgyzstan’s GDP in 2020. A key finding is that the economic growth from foreign invested mine undermines the trust of the beneficiary mining industry in local communities. Using geolocated data from household panel surveys in Kyrgyzstan from 2010 to 2016, the study shows Kumtor, this largest foreign mine, offers mining workers better incomes and social benefits. However, Kumtor mining investment creates greater inequality and social division. This study also finds that the emergence of Kumtor is associated to economic grievances of the non-mining sector. Higher corporate earnings or gold prices were associated with lower trust in local leaders by mining workers, but higher trust by manufacturing workers. -->
+<iframe src="https://forms.gle/rVTp4yJtQuYoLAAa7" width="640" height="2936" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
