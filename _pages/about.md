@@ -16,11 +16,11 @@ We invite people working on international organizations, broadly defined, inclus
 
 **Workshop format:**
 
-We expect all participants read the papers before the workshop. Papers and the Zoom link will be circulated via our mailing list each week (see below). The workshop takes place on Tuesdays at 3:00 pm (EST)
+We strongly encourage all participants read the papers before the workshop. Papers and the Zoom link will be circulated via our mailing list each week (see below). The workshop takes place on Tuesdays at 12:00 pm (EST).
 
-Job Market Talks: 45 minutes presentation, 45 minutes Q&A.
+Job Market Talks: 35-40 minutes presentation, 45 minutes Q&A.
 
-Regular Talks: 20 minutes presentation, 40 minutes Q&A.
+Regular Talks: 15-20 minutes presentation, 40 minutes Q&A.
 
 Sessions will be recorded and are available to the presenter upon request.
 
