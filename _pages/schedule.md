@@ -13,14 +13,28 @@ January 23rd - [Jonathan A. Chu](https://www.jonathanchu.org/) (Short Talk)
 "[Social Cues: How the Liberal Community Legitimizes Humanitarian War](https://io-workshop.github.io/files/ChuSocialCuesManuscript_Circulation.pdf)" by Jonathan A. Chu
 &nbsp;
 
-<!--September 6 - [Rachel Schoner](https://sites.google.com/view/racheljschoner/) (Job Talk)
-
-"[Naming and Shaming in the Human Rights Committee: Individual Petitions’ Effect on Human Rights](https://io-workshop.github.io/files/Schoner_JMP.pdf)" by Rachel Schoner
-&nbsp;
+February 6th - [Kofi Gunu](https://www.politics.ox.ac.uk/person/kofi-gunu) (Short talk)
 
 
+February 20th - (2 Short Talks)
+- [Zikun Yang](https://www.polis.cam.ac.uk/staff/zikun-yang#:~:text=Zikun%20Yang%20is%20a%20PhD,diplomatic%20history%20and%20treaty%20negotiation.)
+
+- [Daphné Charotte](https://www.maastrichtuniversity.nl/d-charotte)
 
 
-<!-- **February 7th: Ebad Ebadi (GWU), "*Adapting to Sanctions: Evidence from Firm Response and Market Reallocation in Iran.*"**
-<br />
-*Moderator:* Oriana Montti (Brandeis). -->
+March 5th - [Shiyang Wu](https://www.polsci.ucsb.edu/people/shiyang-wu) (Practice Job Talk)
+
+
+March 19th - (2 Short Talks)
+- [Christina Boyes](https://christinaaboyes.weebly.com/)
+
+- [Myung Jung Kim](https://pol.illinois.edu/directory/profile/mjkim12)
+
+
+April 16th - [Jeffery Shih-Chieh Wang](https://jeffery-wang.com/) (Practice Job Talk)
+
+
+April 30th - (2 Short Talks)
+- [Charlotte Desmasures](https://www.sciencespo.fr/ceri/en/users/charlottedesmasures)
+
+- TBD
