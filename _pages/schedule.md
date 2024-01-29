@@ -28,13 +28,10 @@ March 5th - [Shiyang Wu](https://www.polsci.ucsb.edu/people/shiyang-wu) (Practic
 March 19th - (2 Short Talks)
 - [Christina Boyes](https://christinaaboyes.weebly.com/)
 
-- [Myung Jung Kim](https://pol.illinois.edu/directory/profile/mjkim12)
+- [Myung Jung Kim](https://www.myungjungkim.com/)
 
 
 April 16th - [Jeffery Shih-Chieh Wang](https://jeffery-wang.com/) (Practice Job Talk)
 
 
-April 30th - (2 Short Talks)
-- [Charlotte Desmasures](https://www.sciencespo.fr/ceri/en/users/charlottedesmasures)
-
-- TBD
+April 30th - [Charlotte Desmasures](https://www.sciencespo.fr/ceri/en/users/charlottedesmasures) (Short Talk)
