@@ -15,6 +15,8 @@ January 23rd - [Jonathan A. Chu](https://www.jonathanchu.org/) (Short Talk)
 
 February 6th - [Kofi Gunu](https://www.politics.ox.ac.uk/person/kofi-gunu) (Short talk)
 
+"[Capital Power: How the structural power of finance shapes IMF bailout requests](https://io-workshop.github.io/files/Gunu Ch4 Ghana.pdf)" by Kofi Gunu
+&nbsp;
 
 February 20th - (2 Short Talks)
 - [Zikun Yang](https://www.polis.cam.ac.uk/staff/zikun-yang#:~:text=Zikun%20Yang%20is%20a%20PhD,diplomatic%20history%20and%20treaty%20negotiation.)
