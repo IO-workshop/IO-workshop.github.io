@@ -19,10 +19,10 @@ February 6th - [Kofi Gunu](https://www.politics.ox.ac.uk/person/kofi-gunu) (Shor
 &nbsp;
 
 February 20th - (2 Short Talks)
-- [Zikun Yang](https://www.polis.cam.ac.uk/staff/zikun-yang#:~:text=Zikun%20Yang%20is%20a%20PhD,diplomatic%20history%20and%20treaty%20negotiation.)
 
-- [Daphné Charotte](https://www.maastrichtuniversity.nl/d-charotte)
+- "[The Multiple Audiences Dynamic of Status Dissatisfaction: Examining China’s Shifting Response to the Emerging Global Environmental Regime, 1950-1972](https://io-workshop.github.io/files/2.7.2024-Junior_IO_Workshop_Manuscript-Zikun_Yang.pdf)"by [Zikun Yang](https://www.polis.cam.ac.uk/staff/zikun-yang#:~:text=Zikun%20Yang%20is%20a%20PhD,diplomatic%20history%20and%20treaty%20negotiation.)
 
+- "[Civilian harm mitigation policies: a comparative case study of the United States and France](https://io-workshop.github.io/files/20240209_Civilian harm mitigation policies_Daphné Charotte.pdf)" by [Daphné Charotte](https://www.maastrichtuniversity.nl/d-charotte)
 
 March 5th - [Shiyang Wu](https://www.polsci.ucsb.edu/people/shiyang-wu) (Practice Job Talk)
 
