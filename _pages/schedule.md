@@ -24,7 +24,9 @@ February 20th - (2 Short Talks)
 
 - "[Civilian harm mitigation policies: a comparative case study of the United States and France](https://io-workshop.github.io/files/20240209_Civilian harm mitigation policies_Daphné Charotte.pdf)" by [Daphné Charotte](https://www.maastrichtuniversity.nl/d-charotte)
 
-March 5th - [Shiyang Wu](https://www.polsci.ucsb.edu/people/shiyang-wu) (Practice Job Talk)
+March 5th - [Shiyang Wu](https://www.polsci.ucsb.edu/people/shiyang-wu) (Short talk)
+
+"[Strategized Exit: Sunset Clauses and Unilateral Terminations of BITs](https://io-workshop.github.io/files/Wu.2024_JuniorIO_20240227.pdf)" by Shiyang Wu
 
 
 March 19th - (2 Short Talks)
