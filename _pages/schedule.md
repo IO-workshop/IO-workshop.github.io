@@ -30,10 +30,10 @@ March 5th - [Shiyang Wu](https://www.polsci.ucsb.edu/people/shiyang-wu) (Short t
 
 
 March 19th - (2 Short Talks)
-- "[Insert_title_here](https://io-workshop.github.io/files/insert_name_here.pdf)" by [Christina Boyes](https://scholar.google.com/citations?user=HIHu46UAAAAJ&hl=en) and
 
-- [The Narrowing Path: Rebel Leaders Exile in the Age of Accountability](https://io-workshop.github.io/files/JuniorIO_Exile_MJK_Mar2024.pdf) [Myung Jung Kim](https://www.myungjungkim.com/)
+- [The Narrowing Path: Rebel Leaders Exile in the Age of Accountability](https://io-workshop.github.io/files/JuniorIO_Exile_MJK_Mar2024.pdf) by [Myung Jung Kim](https://www.myungjungkim.com/)
 
+<!-- - "[Insert_title_here](https://io-workshop.github.io/files/insert_name_here.pdf)" by [Christina Boyes](https://scholar.google.com/citations?user=HIHu46UAAAAJ&hl=en) and -->
 
 April 16th - [Jeffery Shih-Chieh Wang](https://jeffery-wang.com/) (Practice Job Talk)
 
