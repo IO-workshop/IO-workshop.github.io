@@ -33,7 +33,7 @@ March 19th - (2 Short Talks)
 
 - [The Narrowing Path: Rebel Leaders Exile in the Age of Accountability](https://io-workshop.github.io/files/JuniorIO_Exile_MJK_Mar2024.pdf) by [Myung Jung Kim](https://www.myungjungkim.com/)
 
-<!-- - "[Insert_title_here](https://io-workshop.github.io/files/insert_name_here.pdf)" by [Christina Boyes](https://scholar.google.com/citations?user=HIHu46UAAAAJ&hl=en) and -->
+- "[Responding to Social Pressure in the International Human Rights Regime: Why Non-Democratic States Withdraw Treaty Reservations](https://io-workshop.github.io/files/ZSEB Draft 12-23-2023.pdf)" by [Christina Boyes](https://scholar.google.com/citations?user=HIHu46UAAAAJ&hl=en), Kelebogile Zvobgo, Megan Shannon, and Cody Eldredge.
 
 April 16th - [Jeffery Shih-Chieh Wang](https://jeffery-wang.com/) (Practice Job Talk)
 
