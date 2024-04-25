@@ -35,7 +35,6 @@ March 19th - (2 Short Talks)
 
 - "[Responding to Social Pressure in the International Human Rights Regime: Why Non-Democratic States Withdraw Treaty Reservations](https://io-workshop.github.io/files/ZSEB Draft 12-23-2023.pdf)" by [Christina Boyes](https://scholar.google.com/citations?user=HIHu46UAAAAJ&hl=en), Kelebogile Zvobgo, Megan Shannon, and Cody Eldredge.
 
-April 16th - [Jeffery Shih-Chieh Wang](https://jeffery-wang.com/) (Practice Job Talk)
-
-
 April 30th - [Charlotte Desmasures](https://www.sciencespo.fr/ceri/en/users/charlottedesmasures) (Short Talk)
+
+"[Linking climate and security? The integration of climate-related issues into a military’s alliance mandate.](https://io-workshop.github.io/files/Charlotte Desmasures IO Junior Scholars workshop.pdf)" by Charlotte Desmasures
