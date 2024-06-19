@@ -17,9 +17,9 @@ Timon Forster (University of St. Gallen)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.timonforster.net/"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:timon.forster@unisg.ch"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
-Sky Kunkel (Purdue University, Cornell University)
+Sky Kunkel (Cornell University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.skytheacademic.com"}}'><i class='fas fa-user'></i> [Website]</a></span>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:kunkel3@purdue.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:sk3386@cornell.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
 Valerie de Koeijer (Leiden University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.universiteitleiden.nl/en/staffmembers/valerie-de-koeijer"}}'><i class='fas fa-user'></i> [Website]</a></span>
@@ -40,6 +40,11 @@ Sabrina Arias <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Affiliation(s)*: Princeton Niehaus Center for Globalization & Governance Postdoctoral <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fellowship (2023-24); Lehigh University Assistant Professor (2024-).
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.sabrinabarias.com/"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:sbarias20@gmail.com"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+
+Anna Marie Obermeier
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*PhD*: University of Bergen.<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.wareffects.eu/team"}}'><i class='fas fa-user'></i> [Website]</a></span>
+
 
 <!-- Valerie de Koeijer <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*PhD*: Johns Hopkins University.<br>
