@@ -1,19 +1,35 @@
 ---
 layout: archive
-title: "Schedule Spring 2024"
+title: "Schedule Fall 2024"
 permalink: /schedule/
 author_profile: true
 ---
-Meetings are on Tuesdays at 12 pm (EST). We will send the Zoom link on the day of the meeting via the listserv, so make sure to sign up for that if you are not already!
+Meetings are on Tuesdays at 2 pm (EST). We will send the Zoom link on the day of the meeting via the listserv, so make sure to sign up for that if you are not already!
 
 **Schedule:**
 
-January 23rd - [Jonathan A. Chu](https://www.jonathanchu.org/) (Short Talk)
+Sept. 10 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk)
+
+"[Preferential Trade Agreements and Leaders' Business Experience](https://io-workshop.github.io/files/Nones_2024-PTAs.pdf)" by Nicola Nones
+
+Sept. 25 - [Britta Redwood](https://x.com/brittaredwood?lang=en)
+
+Oct. 9 - [Anthony Calacino](https://anthonycalacino.com/)
+
+Oct. 23 - TBD
+
+Nov. 6 - [Eric Thai](https://www.linkedin.com/in/ericthai98)
+
+Nov. 20 - [Akshita Aggarwal](https://politicalscience.columbian.gwu.edu/akshita-aggarwal)
+
+Dec. 4 - [Do Young Gong](https://dygong2.github.io/doyounggong/)
+
+<!-- January 23rd - [Jonathan A. Chu](https://www.jonathanchu.org/) (Short Talk)
 
 "[Social Cues: How the Liberal Community Legitimizes Humanitarian War](https://io-workshop.github.io/files/ChuSocialCuesManuscript_Circulation.pdf)" by Jonathan A. Chu
-&nbsp;
+&nbsp; -->
 
-February 6th - [Kofi Gunu](https://www.politics.ox.ac.uk/person/kofi-gunu) (Short talk)
+<!-- February 6th - [Kofi Gunu](https://www.politics.ox.ac.uk/person/kofi-gunu) (Short talk)
 
 "[Capital Power: How the structural power of finance shapes IMF bailout requests](https://io-workshop.github.io/files/Gunu Ch4 Ghana.pdf)" by Kofi Gunu
 &nbsp;
@@ -37,4 +53,4 @@ March 19th - (2 Short Talks)
 
 April 30th - [Charlotte Desmasures](https://www.sciencespo.fr/ceri/en/users/charlottedesmasures) (Short Talk)
 
-"[Linking climate and security? The integration of climate-related issues into a military’s alliance mandate.](https://io-workshop.github.io/files/Charlotte Desmasures IO Junior Scholars workshop.pdf)" by Charlotte Desmasures
+"[Linking climate and security? The integration of climate-related issues into a military’s alliance mandate.](https://io-workshop.github.io/files/Charlotte Desmasures IO Junior Scholars workshop.pdf)" by Charlotte Desmasures -->
