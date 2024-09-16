@@ -25,9 +25,9 @@ Sky Kunkel (Cornell University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.skytheacademic.com"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:sk3386@cornell.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
-Valerie de Koeijer (Leiden University)
+<!-- Valerie de Koeijer (Leiden University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.universiteitleiden.nl/en/staffmembers/valerie-de-koeijer"}}'><i class='fas fa-user'></i> [Website]</a></span>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:v.j.c.de.koeijer@fgga.leidenuniv.nl"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:v.j.c.de.koeijer@fgga.leidenuniv.nl"}}'><i class='fas fa-envelope'></i> [Email]</a></span> -->
 
 Joshua Turner (SUNY Buffalo)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.joshuaaturner.net/"}}'><i class='fas fa-user'></i> [Website]</a></span>
