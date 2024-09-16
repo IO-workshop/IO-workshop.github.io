@@ -13,9 +13,13 @@ Madie Fleishman (University of Maryland)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://gvpt.umd.edu/gradprofile/fleishman/madeline"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:mfleish@umd.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
-Timon Forster (University of St. Gallen)
+<!-- Timon Forster (University of St. Gallen)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.timonforster.net/"}}'><i class='fas fa-user'></i> [Website]</a></span>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:timon.forster@unisg.ch"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:timon.forster@unisg.ch"}}'><i class='fas fa-envelope'></i> [Email]</a></span> -->
+
+Myung Jung Kim (University of Illinois at Urbana-Champaign)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.myungjungkim.com/"}}'><i class='fas fa-user'></i> [Website]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mjkim12@illinois.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
 Sky Kunkel (Cornell University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.skytheacademic.com"}}'><i class='fas fa-user'></i> [Website]</a></span>
