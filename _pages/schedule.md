@@ -14,6 +14,8 @@ Sept. 10 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk)
 
 Sept. 25 - [Britta Redwood](https://x.com/brittaredwood?lang=en)
 
+"[A Brutal Anomaly: Unfettered Ownership and the Illegality of Transatlantic Chattel Slavery](https://io-workshop.github.io/files/Redwood_2024-a_brutal_anomaly.pdf)"
+
 Oct. 9 - [Anthony Calacino](https://anthonycalacino.com/)
 
 Oct. 23 - TBD

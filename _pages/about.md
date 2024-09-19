@@ -16,7 +16,7 @@ We invite people working on international organizations, broadly defined, inclus
 
 **Workshop format:**
 
-We strongly encourage all participants read the papers before the workshop. Papers and the Zoom link will be circulated via our mailing list each week (see below). The workshop takes place on Tuesdays at 12:00 pm (EST).
+We strongly encourage all participants read the papers before the workshop. Papers and the Zoom link will be circulated via our mailing list each week (see below). The workshop takes place on Wednesdays at 2:00 pm (EST).
 
 Job Market Talks: 35-40 minutes presentation, 45 minutes Q&A.
 
