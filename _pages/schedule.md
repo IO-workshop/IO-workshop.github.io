@@ -4,7 +4,7 @@ title: "Schedule Fall 2024"
 permalink: /schedule/
 author_profile: true
 ---
-Meetings are on Tuesdays at 2 pm (EST). We will send the Zoom link on the day of the meeting via the listserv, so make sure to sign up for that if you are not already!
+Meetings are on Wednesdays at 2 pm (EST). We will send the Zoom link on the day of the meeting via the listserv, so make sure to sign up for that if you are not already!
 
 **Schedule:**
 
