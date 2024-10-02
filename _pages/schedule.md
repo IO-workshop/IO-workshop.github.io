@@ -12,15 +12,17 @@ Sept. 10 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk)
 
 "[Preferential Trade Agreements and Leaders' Business Experience](https://io-workshop.github.io/files/Nones_2024-PTAs.pdf)" by Nicola Nones
 
-Sept. 25 - [Britta Redwood](https://x.com/brittaredwood?lang=en)
+Sept. 25 - [Britta Redwood](https://x.com/brittaredwood?lang=en) (Practice Job Talk)
 
 "[A Brutal Anomaly: Unfettered Ownership and the Illegality of Transatlantic Chattel Slavery](https://io-workshop.github.io/files/Redwood_2024-a_brutal_anomaly.pdf)" by Britta Redwood
 
-Oct. 9 - [Anthony Calacino](https://anthonycalacino.com/)
+Oct. 9 - [Anthony Calacino](https://anthonycalacino.com/) (Short Talk)
 
-Oct. 23 - TBD
+"[Linking International Organizations and Domestic Policymaking: the Role of Bureaucratic Lobbying](https://io-workshop.github.io/files/calacino_io_influence_april_1_2024.pdf)" by Anthony Calacino
 
-Nov. 6 - [Eric Thai](https://www.linkedin.com/in/ericthai98)
+Oct. 23 - [Isabella Bellezza-Smull](https://www.isabellabellezza.com/)
+
+Nov. 6 - [Myung Jung Kim](https://www.myungjungkim.com/)
 
 Nov. 20 - [Akshita Aggarwal](https://politicalscience.columbian.gwu.edu/akshita-aggarwal)
 
