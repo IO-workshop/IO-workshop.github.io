@@ -20,7 +20,9 @@ Oct. 9 - [Anthony Calacino](https://anthonycalacino.com/) (Short Talk)
 
 "[Linking International Organizations and Domestic Policymaking: the Role of Bureaucratic Lobbying](https://io-workshop.github.io/files/calacino_io_influence_april_1_2024.pdf)" by Anthony Calacino
 
-Oct. 23 - [Isabella Bellezza-Smull](https://www.isabellabellezza.com/)
+Oct. 23 - [Isabella Bellezza](https://www.isabellabellezza.com/) 
+
+"[Network Effects and the Globalization of Customs Policing](https://io-workshop.github.io/files/Bellezza_Border_Security_Cooperation.pdf)" by Isabella Bellezza
 
 Nov. 6 - [Myung Jung Kim](https://www.myungjungkim.com/)
 
