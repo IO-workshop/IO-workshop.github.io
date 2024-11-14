@@ -9,9 +9,17 @@ author_profile: true
 
 Email: [jr.ioscholars@gmail.com](jr.ioscholars@gmail.com)
 
+SoYun Chang (The Ohio State University)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://polisci.osu.edu/people/chang.2318"}}'><i class='fas fa-user'></i> [Website]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:chang.2318@osu.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+
 Madie Fleishman (University of Maryland)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://gvpt.umd.edu/gradprofile/fleishman/madeline"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:mfleish@umd.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+
+Do Young Gong (University of Illinois, Urbana-Champaign)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://dygong2.github.io/doyounggong/"}}'><i class='fas fa-user'></i> [Website]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:dygong2@illinois.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
 <!-- Timon Forster (University of St. Gallen)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.timonforster.net/"}}'><i class='fas fa-user'></i> [Website]</a></span>
@@ -32,6 +40,10 @@ Sky Kunkel (Cornell University)
 Joshua Turner (SUNY Buffalo)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.joshuaaturner.net/"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:turner2@buffalo.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+
+Jeffery Shih-Chieh Wang (Indiana University)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://jeffery-wang.com/"}}'><i class='fas fa-user'></i> [Website]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:jeffery.wang429@gmail.com"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
 Nila Zarepour-Arizi (Texas Tech University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.depts.ttu.edu/politicalscience/Graduate_Students/Current_Grad_Students.php"}}'><i class='fas fa-user'></i> [Website]</a></span>
