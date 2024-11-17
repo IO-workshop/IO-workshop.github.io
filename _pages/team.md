@@ -13,6 +13,10 @@ SoYun Chang (The Ohio State University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://polisci.osu.edu/people/chang.2318"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:chang.2318@osu.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
+Anne Della Guardia (LSE)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.annedellaguardia.com/"}}'><i class='fas fa-user'></i> [Website]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:a.c.della-guardia@lse.ac.uk"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+
 Madie Fleishman (University of Maryland)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://gvpt.umd.edu/gradprofile/fleishman/madeline"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:mfleish@umd.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
