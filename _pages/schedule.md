@@ -31,3 +31,5 @@ Nov. 20 - [Akshita Aggarwal](https://politicalscience.columbian.gwu.edu/akshita-
 "[The Silent Cascade into Faulty Norm Adoption: Why States Enact Policies Misaligned with Domestic Challenges](https://io-workshop.github.io/files/Aggarwal_2024-Silent_Cascade.pdf)" by Akshita Aggarwal
 
 Dec. 4 - [Do Young Gong](https://dygong2.github.io/doyounggong/)
+
+"[Timing Matters: The Impact of DDR Implementation on Non-State Conflicts](https://io-workshop.github.io/files/Gong_and_Cho-Timing_Matters.pdf)" by Do Young Gong and Jaeseok Cho
