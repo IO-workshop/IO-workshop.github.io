@@ -20,7 +20,7 @@ Mar. 25 - [Marco Avina](https://www.marcomavina.com) and [Stephen Ansolabehere](
 
 Apr. 8 - [Oren Samet](https://www.orensamet.com) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Samet_abstract_2025.pdf)
 
-Apr. 22 - [Betul Ozturan](https://x.com/betulrozturan) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Brownstein_abstract_2025.pdf)
+Apr. 22 - [Betul Ozturan](https://x.com/betulrozturan) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Ozturan_abstract_2025.pdf)
 
 
 
