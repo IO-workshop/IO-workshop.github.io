@@ -8,7 +8,7 @@ Meetings are on Wednesdays at 2 pm (EST). We will send the Zoom link on the day 
 
 **Schedule:**
 
-Sept. 10 - [Insert name here](https://www.fakewebsite.com/) (Practice Job Talk)
+Sept. 10 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk)
 
 "[Preferential Trade Agreements and Leaders' Business Experience](https://io-workshop.github.io/files/Nones_2024-PTAs.pdf)" by Nicola Nones
 
