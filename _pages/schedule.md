@@ -10,8 +10,6 @@ Meetings are on Tuesdays at 11 Am (EST). We will send the Zoom link on the day o
 
 Jan. 28 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk) - [Abstract](https://io-workshop.github.io/files/Nones_abstract_2025.pdf)
 
-Feb. 11 - [Ye June Jung](https://www.yejunejungpoli.com) (Practice Job Talk) - [Abstract](https://io-workshop.github.io/files/Jung_abstract_2025.pdf)
-
 Feb. 25 - [Greg Brownstein](https://www.gregbrownstein.com) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Brownstein_abstract_2025.pdf)
 
 Mar. 11 - [Eric Thai](https://www.linkedin.com/in/ericthai98/) (Practice Job Talk) - [Abstract](https://io-workshop.github.io/files/Thai_abstract_2025.pdf)
@@ -22,6 +20,7 @@ Apr. 8 - [Oren Samet](https://www.orensamet.com) (Short Talk) - [Abstract](https
 
 Apr. 22 - [Betul Ozturan](https://x.com/betulrozturan) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Ozturan_abstract_2025.pdf)
 
+May 6 - [Ye June Jung](https://www.yejunejungpoli.com) (Practice Job Talk) - [Abstract](https://io-workshop.github.io/files/Jung_abstract_2025.pdf)
 
 
 
