@@ -10,7 +10,7 @@ Meetings are on Tuesdays at 11 Am (EST). We will send the Zoom link on the day o
 
 Jan. 28 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk) - [Abstract](https://io-workshop.github.io/files/Nones_abstract_2025)
 
-
+Feb. 11 - [Ye June Jung](https://www.yejunejungpoli.com) (Practice Job Talk) - [Abstract] (https://io-workshop.github.io/files/Jung_abstract_2025)
 
 
 
