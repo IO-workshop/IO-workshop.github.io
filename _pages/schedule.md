@@ -8,7 +8,9 @@ Meetings are on Tuesdays at 11 Am (EST). We will send the Zoom link on the day o
 
 **Schedule:**
 
-Jan. 28 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk) - [Abstract](https://io-workshop.github.io/files/Nones_abstract_2025.pdf)
+Jan. 28 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk)
+
+"[Grouping Acronyms as Heuristic Devices in Sovereign Bond Markets](https://io-workshop.github.io/files/1.28_JMP_NN_2025.pdf)" by Nicola Nones
 
 Feb. 25 - [Greg Brownstein](https://www.gregbrownstein.com) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Brownstein_abstract_2025.pdf)
 
