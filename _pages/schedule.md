@@ -14,6 +14,8 @@ Jan. 28 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk)
 
 Feb. 25 - [Greg Brownstein](https://www.gregbrownstein.com) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Brownstein_abstract_2025.pdf)
 
+"[The Policy That Shall Be Named: The International Monetary Fund and the Return of Industrial Policy](https://io-workshop.github.io/files/Brownstein_Draft_(Feb_2025).pdf)" by Greg Brownstein
+
 Mar. 11 - [Eric Thai](https://www.linkedin.com/in/ericthai98/) (Practice Job Talk) - [Abstract](https://io-workshop.github.io/files/Thai_abstract_2025.pdf)
 
 Mar. 25 - [Marco Avina](https://www.marcomavina.com) and [Stephen Ansolabehere](https://hls.harvard.edu/faculty/stephen-d-ansolabehere/) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Avina_Ansolabenhere_abstract_2025.pdf)
