@@ -18,7 +18,7 @@ Feb. 25 - [Greg Brownstein](https://www.gregbrownstein.com) (Short Talk)
 
 Mar. 11 - [Eric Thai](https://www.linkedin.com/in/ericthai98/) (Practice Job Talk) - [Abstract](https://io-workshop.github.io/files/Thai_abstract_2025.pdf)
 
-Mar. 25 - [Marco Avina](https://www.marcomavina.com) and [Stephen Ansolabehere](https://hls.harvard.edu/faculty/stephen-d-ansolabehere/) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Avina_Ansolabenhere_abstract_2025.pdf)
+Mar. 17 - [Marco Avina](https://www.marcomavina.com) and [Stephen Ansolabehere](https://hls.harvard.edu/faculty/stephen-d-ansolabehere/) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Avina_Ansolabenhere_abstract_2025.pdf)
 
 Apr. 8 - [Oren Samet](https://www.orensamet.com) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Samet_abstract_2025.pdf)
 
