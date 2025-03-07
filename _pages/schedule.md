@@ -16,7 +16,10 @@ Feb. 25 - [Greg Brownstein](https://www.gregbrownstein.com) (Short Talk)
 
 "[The Policy That Shall Be Named: The International Monetary Fund and the Return of Industrial Policy](https://io-workshop.github.io/files/Brownstein_Draft_(Feb_2025).pdf)" by Greg Brownstein
 
-Mar. 11 - [Eric Thai](https://www.linkedin.com/in/ericthai98/) (Practice Job Talk) - [Abstract](https://io-workshop.github.io/files/Thai_abstract_2025.pdf)
+Mar. 11 - [Eric Thai](https://www.linkedin.com/in/ericthai98/) (Practice Job Talk)
+
+"[The Strategic Use of Tariff Phaseouts in US Free Trade Agreements](https://io-workshop.github.io/files/25.2.19.JMP_Feb2025_draft.pdf)" by Eric Thai
+
 
 Mar. 17 - [Marco Avina](https://www.marcomavina.com) and [Stephen Ansolabehere](https://hls.harvard.edu/faculty/stephen-d-ansolabehere/) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Avina_Ansolabenhere_abstract_2025.pdf)
 
