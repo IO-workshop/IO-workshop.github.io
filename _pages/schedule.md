@@ -21,7 +21,7 @@ Mar. 11 - [Eric Thai](https://www.linkedin.com/in/ericthai98/) (Practice Job Tal
 "[The Strategic Use of Tariff Phaseouts in US Free Trade Agreements](https://io-workshop.github.io/files/25.2.19.JMP_Feb2025_draft.pdf)" by Eric Thai
 
 
-Mar. 17 - [Marco Avina](https://www.marcomavina.com) and [Stephen Ansolabehere](https://hls.harvard.edu/faculty/stephen-d-ansolabehere/) (Short Talk) 
+Mar. 17 **(12 PM EST)** - [Marco Avina](https://www.marcomavina.com) and [Stephen Ansolabehere](https://hls.harvard.edu/faculty/stephen-d-ansolabehere/) (Short Talk) 
 
 "[People not Places: The Limited Role of Local Context in the Globalization Backlash](https://io-workshop.github.io/files/Avina_context_globalization_2025.pdf)" by Marco Avina and Stephen Ansolabehere
 
