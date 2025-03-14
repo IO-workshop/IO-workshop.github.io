@@ -38,19 +38,19 @@ Meetings are on Tuesdays at 11 Am (EST). We will send the Zoom link on the day o
 
 ### Apr. 8 - Oren Samet (Short Talk)
 
-- **Abstract:** [Abstract PDF](https://io-workshop.github.io/files/Samet_abstract_2025.pdf)
+- [Abstract](https://io-workshop.github.io/files/Samet_abstract_2025.pdf)
 
 ---
 
 ### Apr. 22 - Betul Ozturan (Short Talk)
 
-- **Abstract:** [Abstract PDF](https://io-workshop.github.io/files/Ozturan_abstract_2025.pdf)
+- [Abstract](https://io-workshop.github.io/files/Ozturan_abstract_2025.pdf)
 
 ---
 
 ### May 6 - Ye June Jung (Practice Job Talk)
 
-- **Abstract:** [Abstract PDF](https://io-workshop.github.io/files/Jung_abstract_2025.pdf)
+- [Abstract](https://io-workshop.github.io/files/Jung_abstract_2025.pdf)
 
 ---
 
