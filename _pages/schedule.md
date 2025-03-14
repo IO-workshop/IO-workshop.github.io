@@ -9,6 +9,7 @@ Meetings are on Tuesdays at 11 Am (EST). We will send the Zoom link on the day o
 **Schedule:**
 
 Jan. 28 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk)
+
 "[Grouping Acronyms as Heuristic Devices in Sovereign Bond Markets](https://io-workshop.github.io/files/1.28_JMP_NN_2025.pdf)"
 Discussant: [Samuel Brazys](https://people.ucd.ie/samuel.brazys)
 
