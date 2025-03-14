@@ -8,15 +8,19 @@ Meetings are on Tuesdays at 11 Am (EST). We will send the Zoom link on the day o
 
 **Schedule:**
 
-Jan. 28 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk)
+### Jan. 28 - Nicola Nones (Practice Job Talk)
 
-"[Grouping Acronyms as Heuristic Devices in Sovereign Bond Markets](https://io-workshop.github.io/files/1.28_JMP_NN_2025.pdf)"
+- **Title:** [Grouping Acronyms as Heuristic Devices in Sovereign Bond Markets](https://io-workshop.github.io/files/1.28_JMP_NN_2025.pdf)
+- **Discussant:** [Samuel Brazys](https://people.ucd.ie/samuel.brazys)
 
-Discussant: [Samuel Brazys](https://people.ucd.ie/samuel.brazys)
+---
 
-Feb. 25 - [Greg Brownstein](https://www.gregbrownstein.com) (Short Talk)
+### Feb. 25 - Greg Brownstein (Short Talk)
 
-"[The Policy That Shall Be Named: The International Monetary Fund and the Return of Industrial Policy](https://io-workshop.github.io/files/Brownstein_Draft_(Feb_2025).pdf)"
+- **Title:** [The Policy That Shall Be Named: The International Monetary Fund and the Return of Industrial Policy](https://io-workshop.github.io/files/Brownstein_Draft_(Feb_2025).pdf)
+- **Discussant:** [Alexandros Kentikelenis](http://www.kentikelenis.net)
+
+---
 
 Mar. 11 - [Eric Thai](https://www.linkedin.com/in/ericthai98/) (Practice Job Talk)
 
