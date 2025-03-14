@@ -9,16 +9,16 @@ Meetings are on Tuesdays at 11 Am (EST). We will send the Zoom link on the day o
 **Schedule:**
 
 Jan. 28 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk)
-
-"[Grouping Acronyms as Heuristic Devices in Sovereign Bond Markets](https://io-workshop.github.io/files/1.28_JMP_NN_2025.pdf)" by Nicola Nones
+"[Grouping Acronyms as Heuristic Devices in Sovereign Bond Markets](https://io-workshop.github.io/files/1.28_JMP_NN_2025.pdf)"
+Discussant: [Samuel Brazys](https://people.ucd.ie/samuel.brazys)
 
 Feb. 25 - [Greg Brownstein](https://www.gregbrownstein.com) (Short Talk)
 
-"[The Policy That Shall Be Named: The International Monetary Fund and the Return of Industrial Policy](https://io-workshop.github.io/files/Brownstein_Draft_(Feb_2025).pdf)" by Greg Brownstein
+"[The Policy That Shall Be Named: The International Monetary Fund and the Return of Industrial Policy](https://io-workshop.github.io/files/Brownstein_Draft_(Feb_2025).pdf)"
 
 Mar. 11 - [Eric Thai](https://www.linkedin.com/in/ericthai98/) (Practice Job Talk)
 
-"[The Strategic Use of Tariff Phaseouts in US Free Trade Agreements](https://io-workshop.github.io/files/25.2.19.JMP_Feb2025_draft.pdf)" by Eric Thai
+"[The Strategic Use of Tariff Phaseouts in US Free Trade Agreements](https://io-workshop.github.io/files/25.2.19.JMP_Feb2025_draft.pdf)" 
 
 
 Mar. 17 **(Noon EST)** - [Marco Avina](https://www.marcomavina.com) and [Stephen Ansolabehere](https://hls.harvard.edu/faculty/stephen-d-ansolabehere/) (Short Talk) 
