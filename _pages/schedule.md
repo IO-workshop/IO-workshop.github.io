@@ -25,21 +25,34 @@ Meetings are on Tuesdays at 11 Am (EST). We will send the Zoom link on the day o
 ### Mar. 11 - Eric Thai (Practice Job Talk)
 
 - **Title:** [The Strategic Use of Tariff Phaseouts in US Free Trade Agreements](https://io-workshop.github.io/files/25.2.19.JMP_Feb2025_draft.pdf)
+- **Discussant:** [Timm Betz](https://timm-betz.de)
 
 ---
 
 ### Mar. 17 (Noon EST) - Marco Avina and Stephen Ansolabehere (Short Talk)
 
 - **Title:** [People not Places: The Limited Role of Local Context in the Globalization Backlash](https://io-workshop.github.io/files/Avina_context_globalization_2025.pdf)
+- **Discussant:** [Stefanie Walter](https://www.stefaniewalter.de)
 
 ---
 
-Apr. 8 - [Oren Samet](https://www.orensamet.com) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Samet_abstract_2025.pdf)
+### Apr. 8 - Oren Samet (Short Talk)
 
-Apr. 22 - [Betul Ozturan](https://x.com/betulrozturan) (Short Talk) - [Abstract](https://io-workshop.github.io/files/Ozturan_abstract_2025.pdf)
+- **Abstract:** [Abstract PDF](https://io-workshop.github.io/files/Samet_abstract_2025.pdf)
 
-May 6 - [Ye June Jung](https://www.yejunejungpoli.com) (Practice Job Talk) - [Abstract](https://io-workshop.github.io/files/Jung_abstract_2025.pdf)
+---
 
+### Apr. 22 - Betul Ozturan (Short Talk)
+
+- **Abstract:** [Abstract PDF](https://io-workshop.github.io/files/Ozturan_abstract_2025.pdf)
+
+---
+
+### May 6 - Ye June Jung (Practice Job Talk)
+
+- **Abstract:** [Abstract PDF](https://io-workshop.github.io/files/Jung_abstract_2025.pdf)
+
+---
 
 
 <!--
