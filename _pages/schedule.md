@@ -45,7 +45,7 @@ Meetings are on Tuesdays at 11 Am (EST). We will send the Zoom link on the day o
 
 ### Apr. 22 - [Betul Ozturan](https://x.com/betulrozturan) (Short Talk)
 
-- **Title:** [Problem of Peace: How Do Rebel Alliances in A Civil War Impact Authority and Power Sharing? (Abstract)](https://io-workshop.github.io/files/Ozturan_abstract_2025.pdf)
+- [Abstract](https://io-workshop.github.io/files/Ozturan_abstract_2025.pdf)
 - **Discussant:** [Chelsea Johnson](https://cbj913.wixsite.com/drchelseajohnson)
 
 
