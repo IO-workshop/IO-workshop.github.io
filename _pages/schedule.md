@@ -53,7 +53,8 @@ Meetings are on Tuesdays at 11 Am (EST). We will send the Zoom link on the day o
 
 ### May 6 - [Ye June Jung](https://www.yejunejungpoli.com) (Practice Job Talk)
 
-- [Abstract](https://io-workshop.github.io/files/Jung_abstract_2025.pdf)
+- **Title:** [Illiberal Human Rights Norms in Trade and the Effectiveness of Western Conditionalities](https://io-workshop.github.io/files/Jung_Ap28.pdf)
+- **Discussant:** [Brian Greenhill](https://briangreenhill.com/)
 
 ---
 
