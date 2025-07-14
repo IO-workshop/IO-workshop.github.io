@@ -24,22 +24,14 @@ Jeffery Shih-Chieh Wang (Indiana University Bloomington)
 
 ## Former Team Members
 
-Sabrina Arias <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{"https://www.sabrinabarias.com/"}}'><i class='fas fa-user'></i> [Website]</a></span>
-
-Anne Della Guardia <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.annedellaguardia.com/"}}'><i class='fas fa-user'></i> [Website]</a></span>
-
-Madie Fleishman <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://gvpt.umd.edu/gradprofile/fleishman/madeline"}}'><i class='fas fa-user'></i> [Website]</a></span>
-
-Myung Jung Kim  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.myungjungkim.com/"}}'><i class='fas fa-user'></i> [Website]</a></span>
-
-Sky Kunkel 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.skytheacademic.com"}}'><i class='fas fa-user'></i> [Website]</a></span>
-
-Anna Marie Obermeier <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.wareffects.eu/team"}}'><i class='fas fa-user'></i> [Website]</a></span>
-
-Joshua Turner <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.joshuaaturner.net/"}}'><i class='fas fa-user'></i> [Website]</a></span>
-
-Nila Zarepour-Arizi <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.depts.ttu.edu/politicalscience/Graduate_Students/Current_Grad_Students.php"}}'><i class='fas fa-user'></i> [Website]</a></span>
+Sabrina Arias [<a href="https://www.sabrinabarias.com/">Website</a>]  
+Anne Della Guardia [<a href="https://www.annedellaguardia.com/">Website</a>]  
+Madie Fleishman [<a href="https://gvpt.umd.edu/gradprofile/fleishman/madeline">Website</a>]  
+Myung Jung Kim [<a href="https://www.myungjungkim.com/">Website</a>]  
+Sky Kunkel [<a href="https://www.skytheacademic.com">Website</a>]  
+Anna Marie Obermeier [<a href="https://www.wareffects.eu/team">Website</a>]  
+Joshua Turner [<a href="https://www.joshuaaturner.net/">Website</a>]  
+Nila Zarepour-Arizi [<a href="https://www.depts.ttu.edu/politicalscience/Graduate_Students/Current_Grad_Students.php">Website</a>]  
 
 
 <!-- Valerie de Koeijer <br>
