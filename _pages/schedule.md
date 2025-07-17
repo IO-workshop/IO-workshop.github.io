@@ -7,7 +7,6 @@ author_profile: true
 Meetings are tentatively scheduled for Thursdays (time TBD, EST).
 The Zoom link will be shared via the listserv on the day of each meeting—make sure you’re signed up!
 
-📢 Call for Proposals coming soon!
 
 <!--
 **Schedule:**
