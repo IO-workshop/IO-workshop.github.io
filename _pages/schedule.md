@@ -9,9 +9,8 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
 
 📢 Call for Proposals coming soon!
 
-**Schedule:**
-
 <!--
+**Schedule:**
 
 ### Jan. 28 - [Nicola Nones](https://www.nicolanones.com/) (Practice Job Talk)
 
