@@ -8,7 +8,6 @@ author_profile: true
 **Call for Papers (Fall 2025):**
 
 We are working on the workshop series for Fall 2025. Please refer to the “Schedule” tab above for updates. 
-Stay tuned for the upcoming **Call for Proposals** announcement!
 
 <!-- The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. This workshop will be an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests. We are excited to be soliciting calls for participation for our second year!
 
