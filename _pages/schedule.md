@@ -19,22 +19,22 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
 - [Abstract](https://io-workshop.github.io/files/Abstract_Taegyun Lim.pdf)
 - **Discussant:** [TBD]()
  
- ### Oct. 22 - [Akshita Aggarwal](https://politicalscience.columbian.gwu.edu/akshita-aggarwal) (Short Talk)
+### Oct. 22 - [Akshita Aggarwal](https://politicalscience.columbian.gwu.edu/akshita-aggarwal) (Short Talk)
 
 - [Abstract](https://io-workshop.github.io/files/Abstract_Akshita Aggarwal.pdf)
 - **Discussant:** [TBD]()
  
- ### Nov. 5 - [Dagmar Heintze](https://epps.utdallas.edu/phd-students/dagmar-heintze/) (Short Talk)
+### Nov. 5 - [Dagmar Heintze](https://epps.utdallas.edu/phd-students/dagmar-heintze/) (Short Talk)
 
 - [Abstract](https://io-workshop.github.io/files/Abstract_Dagmar Heintze.pdf)
 - **Discussant:** [TBD]()
  
- ### Nov. 19 - [Amaan Charaniya](https://polisci.wustl.edu/people/amaan-charaniya) (TBD)
+### Nov. 19 - [Amaan Charaniya](https://polisci.wustl.edu/people/amaan-charaniya) (TBD)
 
 - [Abstract](https://io-workshop.github.io/files/Abstract_Taegyun Lim.pdf)
 - **Discussant:** [TBD]()
  
- ### Dec. 3 - [Sangyong Son](https://sangyongson.com) (Short Talk)
+### Dec. 3 - [Sangyong Son](https://sangyongson.com) (Short Talk)
 
 - [Abstract](https://io-workshop.github.io/files/Abstract_Sangyong Son.pdf)
 - **Discussant:** [TBD]()
