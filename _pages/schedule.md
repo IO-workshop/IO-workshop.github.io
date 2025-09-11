@@ -41,7 +41,6 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
  
 
 
-⸻
 
 
 <!--
@@ -60,6 +59,7 @@ Format Sample (title/paper/discussant)
 
 - **Title:** [Illiberal Human Rights Norms in Trade and the Effectiveness of Western Conditionalities](https://io-workshop.github.io/files/Jung_Ap28.pdf)
 - **Discussant:** [Brian Greenhill](https://briangreenhill.com/)
+
 
 
 ---
