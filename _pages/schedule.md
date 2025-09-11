@@ -9,10 +9,12 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
 
 **Schedule:**
 
-### Sep. 24 - [Shing Hon Lam](https://x.com/betulrozturan) (Short Talk)
+### Sep. 24 - [Shing Hon Lam](https://shinghon.github.io)(Job Talk)
 
 - [Abstract](https://io-workshop.github.io/files/Abstract_Shing Hon Lam.pdf)
 - **Discussant:** [Lauren Peritz](https://laurenperitz.ucdavis.edu)
+
+
 
 
 <!--

@@ -24,10 +24,10 @@ Jeffery Shih-Chieh Wang (Indiana University Bloomington)
 
 ## Former Team Members
 
-Sabrina Arias <a href="https://www.sabrinabarias.com/">[Website]</a>
+Sabrina Arias <a href="https://www.sabrinabarias.com/">[Website]</a> 
 Madie Fleishman <a href="https://gvpt.umd.edu/gradprofile/fleishman/madeline">[Website]</a> 
-Anne Della Guardia <a href="https://www.annedellaguardia.com/">[Website]</a>  
-Myung Jung Kim <a href="https://www.myungjungkim.com/">[Website]</a>  
+Anne Della Guardia <a href="https://www.annedellaguardia.com/">[Website]</a> 
+Myung Jung Kim <a href="https://www.myungjungkim.com/">[Website]</a> 
 Sky Kunkel <a href="https://www.skytheacademic.com">[Website]</a>  
 Anna Marie Obermeier <a href="https://www.wareffects.eu/team">[Website]</a>  
 Joshua Turner <a href="https://www.joshuaaturner.net/">[Website]</a>
