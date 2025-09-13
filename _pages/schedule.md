@@ -29,7 +29,7 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
 - [Abstract](https://io-workshop.github.io/files/Abstract_Dagmar Heintze.pdf)
 - **Discussant:** [TBD]()
  
-### Nov. 19 - [Amaan Charaniya](https://polisci.wustl.edu/people/amaan-charaniya) (TBD)
+### Nov. 19 - [Amaan Charaniya](https://polisci.wustl.edu/people/amaan-charaniya) (Job Talk)
 
 - [Abstract](https://io-workshop.github.io/files/Abstract_Taegyun Lim.pdf)
 - **Discussant:** [TBD]()
