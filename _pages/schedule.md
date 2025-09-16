@@ -17,7 +17,7 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
 ### Oct. 8 - [Taegyun Lim](https://sites.google.com/g.harvard.edu/taegyunlim) (Short Talk)
 
 - [Abstract](https://io-workshop.github.io/files/Abstract_Taegyun Lim.pdf)
-- **Discussant:** [TBD]()
+- **Discussant:** [Jonathan Chu](https://www.jonathanchu.org)
  
 ### Oct. 22 - [Akshita Aggarwal](https://politicalscience.columbian.gwu.edu/akshita-aggarwal) (Short Talk)
 
