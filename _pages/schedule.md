@@ -11,7 +11,7 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
 
 ### Sep. 24 - [Shing Hon Lam](https://shinghon.github.io) (Job Talk)
 
-- [Abstract](https://io-workshop.github.io/files/Abstract_Shing Hon Lam.pdf)
+- **Title:** [Backtracking Under Scrutiny: Evidence and Regulation in the WTO](https://io-workshop.github.io/files/Paper_Shing Hon Lam.pdf)
 - **Discussant:** [Lauren Peritz](https://laurenperitz.ucdavis.edu)
 
 ### Oct. 8 - [Taegyun Lim](https://sites.google.com/g.harvard.edu/taegyunlim) (Short Talk)
