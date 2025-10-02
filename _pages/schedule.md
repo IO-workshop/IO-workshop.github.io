@@ -16,7 +16,7 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
 
 ### Oct. 8 - [Stephen Chaudoin](https://www.stephenchaudoin.com) & [Taegyun Lim](https://sites.google.com/g.harvard.edu/taegyunlim) (Short Talk)
 
-- [Abstract](https://io-workshop.github.io/files/Paper_chaudoin_lim.pdf)
+- **Title:** [Persuasion and Backlash from International Law in Global Swing States](https://io-workshop.github.io/files/Paper_chaudoin_lim.pdf)
 - **Discussant:** [Jonathan Chu](https://www.jonathanchu.org)
  
 ### Oct. 22 - [Akshita Aggarwal](https://politicalscience.columbian.gwu.edu/akshita-aggarwal) (Short Talk)
