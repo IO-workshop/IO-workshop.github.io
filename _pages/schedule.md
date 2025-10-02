@@ -14,15 +14,15 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
 - **Title:** [Backtracking Under Scrutiny: Evidence and Regulation in the WTO](https://io-workshop.github.io/files/Paper_Shing Hon Lam.pdf)
 - **Discussant:** [Lauren Peritz](https://laurenperitz.ucdavis.edu)
 
-### Oct. 8 - [Taegyun Lim](https://sites.google.com/g.harvard.edu/taegyunlim) (Short Talk)
+### Oct. 8 - [Stephen Chaudoin](https://www.stephenchaudoin.com) & [Taegyun Lim](https://sites.google.com/g.harvard.edu/taegyunlim) (Short Talk)
 
-- [Abstract](https://io-workshop.github.io/files/Abstract_Taegyun Lim.pdf)
+- [Abstract](https://io-workshop.github.io/files/Paper_chaudoin_lim.pdf)
 - **Discussant:** [Jonathan Chu](https://www.jonathanchu.org)
  
 ### Oct. 22 - [Akshita Aggarwal](https://politicalscience.columbian.gwu.edu/akshita-aggarwal) (Short Talk)
 
 - [Abstract](https://io-workshop.github.io/files/Abstract_Akshita Aggarwal.pdf)
-- **Discussant:** [TBD]()
+- **Discussant:** [Sabrina Arias]()
  
 ### Nov. 5 - [Dagmar Heintze](https://epps.utdallas.edu/phd-students/dagmar-heintze/) (Short Talk)
 
