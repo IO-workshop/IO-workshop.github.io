@@ -27,7 +27,7 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
 ### Nov. 5 - [Dagmar Heintze](https://epps.utdallas.edu/phd-students/dagmar-heintze/) (Short Talk)
 
 - [Abstract](https://io-workshop.github.io/files/Abstract_Dagmar_Heintze.pdf)
-- **Discussant:** [TBD]()
+- **Discussant:** [Rachel Schoner](https://www.rjschoner.com)
  
 ### Nov. 19 - [Amaan Charaniya](https://polisci.wustl.edu/people/amaan-charaniya) (Job Talk)
 
