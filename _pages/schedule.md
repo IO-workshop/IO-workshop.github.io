@@ -21,7 +21,7 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
  
 ### Oct. 22 - [Akshita Aggarwal](https://politicalscience.columbian.gwu.edu/akshita-aggarwal) (Short Talk)
 
-- [Abstract](https://io-workshop.github.io/files/Abstract_Akshita_Aggarwal.pdf)
+- **Title:** [Between Delegation and Evasion: Coercive Inaction in Regional Organizations](https://io-workshop.github.io/files/Paper_Akshita_Aggarwal.pdf)
 - **Discussant:** [Sabrina Arias](https://sabrinabarias.com)
  
 ### Nov. 5 - [Dagmar Heintze](https://epps.utdallas.edu/phd-students/dagmar-heintze/) (Short Talk)
