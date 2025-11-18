@@ -31,8 +31,8 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
  
 ### Nov. 19 - [Amaan Charaniya](https://polisci.wustl.edu/people/amaan-charaniya) (Job Talk)
 
-- [Abstract](https://io-workshop.github.io/files/Abstract_Amaan_Charaniya.pdf)
-- **Discussant:** [TBD]()
+- **Title:** [War and Peace: Territorial Disputes and Public Opinion in India](https://io-workshop.github.io/files/Paper_Charaniya_JMP.pdf)
+- **Discussant:** [Omer Solodoch](https://www.solodoch.com)
  
 ### Dec. 3 - [Sangyong Son](https://sangyongson.com) (Short Talk)
 
