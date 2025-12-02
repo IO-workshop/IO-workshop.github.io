@@ -36,8 +36,8 @@ The Zoom link will be shared via the listserv on the day of each meeting—make 
  
 ### Dec. 3 - [Sangyong Son](https://sangyongson.com) (Short Talk)
 
-- [Abstract](https://io-workshop.github.io/files/Abstract_Sangyong_Son.pdf)
-- **Discussant:** [TBD]()
+- **Title:** [Intergenerational Transmission under Extreme Violence: Families, Memorial Institutions, and the Legacies of Atomic Bombings](https://io-workshop.github.io/files/Paper_Son.pdf)
+- **Discussant:** [Carly Wayne](https://www.carlywayne.com)
  
 
 
