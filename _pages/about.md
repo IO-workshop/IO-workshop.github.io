@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. This workshop will be an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests.
+The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. This workshop provides an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests.
 
-We invite people working on international organizations, broadly defined, inclusive of international law, foreign policy, and related areas, to participate and/or sign up to our mailing list. Additionally, we encourage participation across different types of research, including theoretical, interdisciplinary, empirical, and policy oriented work.
+Established in Summer 2022, the workshop has convened regularly each academic year and has grown into an active and inclusive scholarly community. Since its founding, the workshop has attracted more than 500 subscribers to its mailing list and has hosted over 50 presentations by graduate students, postdoctoral researchers, and junior faculty across institutions. These presentations span a wide range of topics related to international organizations and global governance and are regularly accompanied by formal discussant feedback from senior scholars, providing participants with substantive and constructive engagement.
+
+We invite people working on international organizations, broadly defined, inclusive of international law, foreign policy, and related areas, to participate and/or sign up to our mailing list. Additionally, we encourage participation across different types of research, including theoretical, interdisciplinary, empirical, and policy-oriented work.
 
 <hr>
 
 **Workshop format:**
 
-We strongly encourage all participants read the papers before the workshop. Papers and the Zoom link will be circulated via our mailing list each week (see below). ***The Fall 2025 workshop is planned for Wednesdays (11:00am, EST).***
+We strongly encourage all participants read the papers before the workshop. Papers and the Zoom link will be circulated via our mailing list each week (see below). ***The Spring 2026 workshop is planned for Thursdays (11:00am, EST).***
 
 Job Market Talks: 35-40 minutes presentation, 45 minutes Q&A.
 

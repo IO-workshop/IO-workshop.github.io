@@ -33,18 +33,19 @@ Zikun Yang (University of Cambridge)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.linkedin.com/in/zikun-yang-194381130/"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:zy301@cam.ac.uk"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
+<details markdown="1">
+<summary><strong>Former Team Members</strong></summary>
 
-## Former Team Members
+Sabrina Arias — <a href="https://www.sabrinabarias.com/">Website</a><br>
+Madie Fleishman — <a href="https://gvpt.umd.edu/gradprofile/fleishman/madeline">Website</a><br>
+Anne Della Guardia — <a href="https://www.annedellaguardia.com/">Website</a><br>
+Myung Jung Kim — <a href="https://www.myungjungkim.com/">Website</a><br>
+Sky Kunkel — <a href="https://www.skytheacademic.com">Website</a><br>
+Anna Marie Obermeier — <a href="https://www.wareffects.eu/team">Website</a><br>
+Joshua Turner — <a href="https://www.joshuaaturner.net/">Website</a><br>
+Nila Zarepour-Arizi — <a href="https://www.depts.ttu.edu/politicalscience/Graduate_Students/Current_Grad_Students.php">Website</a>
 
-Sabrina Arias <a href="https://www.sabrinabarias.com/">[Website]</a>  
-Madie Fleishman <a href="https://gvpt.umd.edu/gradprofile/fleishman/madeline">[Website]</a>   
-Anne Della Guardia <a href="https://www.annedellaguardia.com/">[Website]</a>  
-Myung Jung Kim <a href="https://www.myungjungkim.com/">[Website]</a>  
-Sky Kunkel <a href="https://www.skytheacademic.com">[Website]</a>    
-Anna Marie Obermeier <a href="https://www.wareffects.eu/team">[Website]</a>    
-Joshua Turner <a href="https://www.joshuaaturner.net/">[Website]</a>  
-Nila Zarepour-Arizi <a href="https://www.depts.ttu.edu/politicalscience/Graduate_Students/Current_Grad_Students.php">[Website]</a>  
-
+</details>
 
 <!-- Valerie de Koeijer <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*PhD*: Johns Hopkins University.<br>
