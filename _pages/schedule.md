@@ -4,7 +4,18 @@ title: "Schedule Spring 2026"
 permalink: /schedule/
 author_profile: true
 ---
-Meetings are tentatively scheduled for Thursdays at 11:00am (ET). The Zoom link will be shared via the listserv on the day of each meeting. Additional details will be announced soon.
+Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link will be shared via the listserv on the day of each meeting.
+
+**Schedule:**
+
+Format Sample (abstrct/discussant)
+### Feb. 12 - [Giovanny Alvarez](https://giovannyralvarez.github.io) (Short Talk)
+
+- [Abstract](https://io-workshop.github.io/files/Ozturan_abstract_2025.pdf)
+- **Discussant:** [Chelsea Johnson](https://cbj913.wixsite.com/drchelseajohnson)
+
+
+
 
 
 <details>
@@ -14,37 +25,35 @@ Meetings are tentatively scheduled for Thursdays at 11:00am (ET). The Zoom link 
 <summary><strong>Fall 2025</strong></summary>
 
 ### Sep. 24 — [Shing Hon Lam](https://shinghon.github.io) (Job Talk)
-- **Title:** [Backtracking Under Scrutiny: Evidence and Regulation in the WTO](https://io-workshop.github.io/files/Paper_Shing%20Hon%20Lam.pdf)
+- **Title:** [Backtracking Under Scrutiny: Evidence and Regulation in the WTO](https://io-workshop.github.io/files/Fall_2025/Paper_Shing%20Hon%20Lam.pdf)
 - **Discussant:** [Lauren Peritz](https://laurenperitz.ucdavis.edu)
 
 ---
 
 ### Oct. 8 — [Stephen Chaudoin](https://www.stephenchaudoin.com) & [Taegyun Lim](https://sites.google.com/g.harvard.edu/taegyunlim) (Short Talk)
-- **Title:** [Persuasion and Backlash from International Law in Global Swing States](https://io-workshop.github.io/files/Paper_chaudoin_lim.pdf)
+- **Title:** [Persuasion and Backlash from International Law in Global Swing States](https://io-workshop.github.io/files/Fall 2025/Paper_chaudoin_lim.pdf)
 - **Discussant:** [Jonathan Chu](https://www.jonathanchu.org)
 
 ---
 
 ### Oct. 22 — [Akshita Aggarwal](https://politicalscience.columbian.gwu.edu/akshita-aggarwal) (Short Talk)
-- **Title:** [Between Delegation and Evasion: Coercive Inaction in Regional Organizations](https://io-workshop.github.io/files/Paper_Akshita_Aggarwal.pdf)
+- **Title:** [Between Delegation and Evasion: Coercive Inaction in Regional Organizations](https://io-workshop.github.io/files/Fall_2025/Paper_Akshita_Aggarwal.pdf)
 - **Discussant:** [Sabrina Arias](https://sabrinabarias.com)
 
 ---
 
 ### Nov. 5 — [Dagmar Heintze](https://epps.utdallas.edu/phd-students/dagmar-heintze/) (Short Talk)
-- **Title:** [(Semi)independent Human Rights Advocates: National Prevention Mechanisms and Human Rights Monitoring and Reporting](https://io-workshop.github.io/files/Paper_DHeintze.pdf)
+- **Title:** [(Semi)independent Human Rights Advocates: National Prevention Mechanisms and Human Rights Monitoring and Reporting](https://io-workshop.github.io/files/Fall_2025/Paper_DHeintze.pdf)
 - **Discussant:** [Rachel Schoner](https://www.rjschoner.com)
 
----
-
 ### Nov. 19 — [Amaan Charaniya](https://polisci.wustl.edu/people/amaan-charaniya) (Job Talk)
-- **Title:** [War and Peace: Territorial Disputes and Public Opinion in India](https://io-workshop.github.io/files/Paper_Charaniya_JMP.pdf)
+- **Title:** [War and Peace: Territorial Disputes and Public Opinion in India](https://io-workshop.github.io/files/Fall_2025/Paper_Charaniya_JMP.pdf)
 - **Discussant:** [Omer Solodoch](https://www.solodoch.com)
 
 ---
 
 ### Dec. 3 — [Sangyong Son](https://sangyongson.com) (Short Talk)
-- **Title:** [Intergenerational Transmission under Extreme Violence: Families, Memorial Institutions, and the Legacies of Atomic Bombings](https://io-workshop.github.io/files/Paper_Son.pdf)
+- **Title:** [Intergenerational Transmission under Extreme Violence: Families, Memorial Institutions, and the Legacies of Atomic Bombings](https://io-workshop.github.io/files/Fall_2025/Paper_Son.pdf)
 - **Discussant:** [Carly Wayne](https://www.carlywayne.com)
 
 </details>

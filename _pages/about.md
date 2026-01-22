@@ -14,7 +14,7 @@ Established in Summer 2022, the workshop has convened regularly each academic ye
 
 We invite people working on international organizations, broadly defined, inclusive of international law, foreign policy, and related areas, to participate and/or sign up to our mailing list. Additionally, we encourage participation across different types of research, including theoretical, interdisciplinary, empirical, and policy-oriented work.
 
-We also host professionalization talks, where scholars share their experiences with conducting research, navigating the academic job market, and developing careers across academia and policy-relevant settings.
+We also host professionalization workshops, where scholars share their experiences with conducting research, navigating the academic job market, and developing careers across academia and policy-relevant settings.
 
 <hr>
 
@@ -26,7 +26,7 @@ Job Market Talks: 35-40 minutes presentation, 30 minutes Q&A.
 
 Regular Talks: 15-20 minutes presentation, 40 minutes Q&A.
 
-Professionalization Talks: 30-40 minutes presentation, 30 minutes Q&A.
+Professionalization Workshops: 30-40 minutes presentation, 30 minutes Q&A.
 
 Sessions will be recorded and are available to the presenter upon request.
 
