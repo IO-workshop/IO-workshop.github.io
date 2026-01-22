@@ -8,15 +8,44 @@ Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link will be shar
 
 **Schedule:**
 
-Format Sample (abstrct/discussant)
 ### Feb. 12 - [Giovanny Alvarez](https://giovannyralvarez.github.io) (Short Talk)
 
-- [Abstract](https://io-workshop.github.io/files/Ozturan_abstract_2025.pdf)
-- **Discussant:** [Chelsea Johnson](https://cbj913.wixsite.com/drchelseajohnson)
+- [Abstract](https://io-workshop.github.io/files/Spring_2026/abstract_Giovanny_Alvarez.pdf)
+- **Discussant:** [TBD]()
+
+---
+
+### Feb. 26 - [Sky Kunkel](https://www.skytheacademic.com) (Professionalization Workshop)
+
+---
+
+### Mar. 12 - [Myung Jung Kim](https://www.myungjungkim.com) (Short Talk)
+
+- [Abstract](https://io-workshop.github.io/files/Spring_2026/abstract_Myung_Jung_Kim.pdf)
+- **Discussant:** [TBD]()
+
+---
+
+### Apr. 2 - [Myung Jung Kim](https://www.myungjungkim.com) and [Do Young Gong](https://doyounggong.com) (Professionalization Workshop)
+
+---
+
+### Apr. 16 - [Richard Yifan Zhou](https://www.linkedin.com/in/richardyifanzhou/?originalSubdomain=uk) (Short Talk)
+
+- [Abstract](https://io-workshop.github.io/files/Spring_2026/abstract_Richard_Yifan_Zhou.pdf)
+- **Discussant:** [TBD]()
+
+---
+
+### Apr. 30 - [Uzair Khan](https://x.com/Uzairk32046787) (Short Talk)
+
+- [Abstract](https://io-workshop.github.io/files/Spring_2026/abstract_Uzair_Khan)
+- **Discussant:** [TBD]()
 
 
 
 
+<!--Past Presentations-->
 
 <details>
 <summary><strong>Past Presentations</strong></summary>
