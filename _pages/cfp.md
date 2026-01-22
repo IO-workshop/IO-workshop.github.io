@@ -5,11 +5,16 @@ permalink: /cfp/
 author_profile: true
 ---
 
+
+
+Thank you to everyone who submitted proposals for the Spring 2026 Junior IO Scholars Workshop and helped circulate the call. We have now completed the Call for Proposals and finalized the workshop schedule.
+
+Please visit the <a href="https://io-workshop.github.io/schedule/">Schedule</a> page for detailed information on upcoming sessions, including presentation titles, presenters, and meeting details.
+
+
+<!-- 
 **Spring 2026:**
-
- We are soliciting proposals for the **Spring 2026** Junior IO Scholars Workshop! The workshop offers a supportive forum for participants to receive substantive feedback from peers and senior scholars, while fostering an interdisciplinary community of researchers with shared interests in international organizations and global governance.
-
-Please use the following form to indicate your interest in presenting: [Presentation Interest Form](https://forms.gle/dikF5nfxjJCHuoDn8)
+We are soliciting proposals for the **Spring 2026** Junior IO Scholars Workshop! The workshop offers a supportive forum for participants to receive substantive feedback from peers and senior scholars, while fostering an interdisciplinary community of researchers with shared interests in international organizations and global governance. Please use the following form to indicate your interest in presenting: [Presentation Interest Form](https://forms.gle/dikF5nfxjJCHuoDn8)
 
 We welcome both **longer-form practice job talks** (approximately 45 minutes) and **shorter presentations of works in progress** (approximately 15 minutes). Each presentation will be followed by time for discussant comments and audience Q&A. Participants are strongly encouraged to read the papers in advance of each session. 
 
@@ -22,7 +27,7 @@ The **tentative dates** are:
 - April 16 
 - April 30 
 
-with meetings held at **11:00 AM (ET)**.
+with meetings held at **11:00 AM (ET)**. -->
 
 
 
