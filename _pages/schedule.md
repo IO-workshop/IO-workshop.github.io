@@ -4,9 +4,7 @@ title: "Schedule Spring 2026"
 permalink: /schedule/
 author_profile: true
 ---
-Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link will be shared via the listserv on the day of each meeting.
-
-**Schedule:**
+Spring 2026 Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link will be shared via the listserv on the day of each meeting.
 
 ### Feb. 12 - [Giovanny Alvarez](https://giovannyralvarez.github.io) (Short Talk)
 
@@ -16,6 +14,7 @@ Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link will be shar
 ---
 
 ### Feb. 26 - [Sky Kunkel](https://www.skytheacademic.com) (Professionalization Workshop)
+- **Topic:** [TBD]()
 
 ---
 
@@ -27,6 +26,7 @@ Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link will be shar
 ---
 
 ### Apr. 2 - [Myung Jung Kim](https://www.myungjungkim.com) and [Do Young Gong](https://doyounggong.com) (Professionalization Workshop)
+- **Topic:** [TBD]()
 
 ---
 
@@ -39,10 +39,10 @@ Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link will be shar
 
 ### Apr. 30 - [Uzair Khan](https://x.com/Uzairk32046787) (Short Talk)
 
-- [Abstract](https://io-workshop.github.io/files/Spring_2026/abstract_Uzair_Khan)
+- [Abstract](https://io-workshop.github.io/files/Spring_2026/abstract_Uzair_Khan.pdf)
 - **Discussant:** [TBD]()
 
-
+---
 
 
 <!--Past Presentations-->
@@ -74,6 +74,8 @@ Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link will be shar
 ### Nov. 5 — [Dagmar Heintze](https://epps.utdallas.edu/phd-students/dagmar-heintze/) (Short Talk)
 - **Title:** [(Semi)independent Human Rights Advocates: National Prevention Mechanisms and Human Rights Monitoring and Reporting](https://io-workshop.github.io/files/Fall_2025/Paper_DHeintze.pdf)
 - **Discussant:** [Rachel Schoner](https://www.rjschoner.com)
+
+---
 
 ### Nov. 19 — [Amaan Charaniya](https://polisci.wustl.edu/people/amaan-charaniya) (Job Talk)
 - **Title:** [War and Peace: Territorial Disputes and Public Opinion in India](https://io-workshop.github.io/files/Fall_2025/Paper_Charaniya_JMP.pdf)
