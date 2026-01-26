@@ -60,7 +60,7 @@ Spring 2026 Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link 
 ---
 
 ### Oct. 8 — [Stephen Chaudoin](https://www.stephenchaudoin.com) & [Taegyun Lim](https://sites.google.com/g.harvard.edu/taegyunlim) (Short Talk)
-- **Title:** [Persuasion and Backlash from International Law in Global Swing States](https://io-workshop.github.io/files/Fall 2025/Paper_chaudoin_lim.pdf)
+- **Title:** [Persuasion and Backlash from International Law in Global Swing States](https://io-workshop.github.io/files/Fall_2025/Paper_chaudoin_lim.pdf)
 - **Discussant:** [Jonathan Chu](https://www.jonathanchu.org)
 
 ---
