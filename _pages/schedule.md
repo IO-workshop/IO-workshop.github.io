@@ -8,7 +8,7 @@ Spring 2026 Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link 
 
 ### Feb. 12 - [Giovanny Alvarez](https://giovannyralvarez.github.io) (Short Talk)
 
-- **Title:** [Pacifying Elites, Endangering Communities: A Dual-Arena Theory of Post-Conflict Violence](Alvarez_PacifyingElites_EndangeringCommunities.pdf)
+- **Title:** [Pacifying Elites, Endangering Communities: A Dual-Arena Theory of Post-Conflict Violence](https://io-workshop.github.io/files/Spring_2026/Alvarez_PacifyingElites_EndangeringCommunities.pdf)
 - **Discussant:** [Geoff Dancy](https://www.geoffdancy.com)
 
 ---
