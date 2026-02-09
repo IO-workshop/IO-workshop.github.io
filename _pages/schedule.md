@@ -30,7 +30,7 @@ Spring 2026 Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link 
 
 ---
 
-### Apr. 16 - [Richard Yifan Zhou](https://www.linkedin.com/in/richardyifanzhou/?originalSubdomain=uk) (Short Talk)
+### Apr. 16 - [Richard Yifan Zhou](https://sites.google.com/view/richardyifanzhou/) (Short Talk)
 
 - [Abstract](https://io-workshop.github.io/files/Spring_2026/abstract_Richard_Yifan_Zhou.pdf)
 - **Discussant:** [TBD]()
