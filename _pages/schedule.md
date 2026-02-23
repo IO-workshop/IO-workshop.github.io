@@ -14,7 +14,11 @@ Spring 2026 Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link 
 ---
 
 ### Feb. 26 - [Sky Kunkel](https://www.skytheacademic.com) (Professionalization Workshop)
-- **Topic:** [TBD]()
+- **Topics:** 
+    * Distinction between fellowship-based vs. project-based postdocs
+    * Coverletters and interviews
+    * Managing research pipeline during postdoc (individual projects vs. team project)
+    * Fieldwork experience
 
 ---
 
