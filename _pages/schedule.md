@@ -24,8 +24,8 @@ Spring 2026 Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link 
 
 ### Mar. 12 - [Myung Jung Kim](https://www.myungjungkim.com) (Short Talk)
 
-- [Abstract](https://io-workshop.github.io/files/Spring_2026/abstract_Myung_Jung_Kim.pdf)
-- **Discussant:** [TBD]()
+- **Title:** [The Double Bind of International Justice: Shorter Wars or Fewer Casualties?](https://io-workshop.github.io/files/Spring_2026/Kim_Double_Bound_03062026.pdf)
+- **Discussant:** [Jessica Stanton](https://www.jessicastanton.org)
 
 ---
 
