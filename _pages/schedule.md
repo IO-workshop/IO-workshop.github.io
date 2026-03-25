@@ -30,7 +30,7 @@ Spring 2026 Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link 
 ---
 
 ### Apr. 2 - [Myung Jung Kim](https://www.myungjungkim.com) and [Do Young Gong](https://doyounggong.com) (Professionalization Workshop)
-- **Topic:** [Tenure-track Job Market at Research Universities]
+- **Topic: Tenure-track Job Market at Research Universities**
 
 ---
 
