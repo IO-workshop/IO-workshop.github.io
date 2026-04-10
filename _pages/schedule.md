@@ -37,7 +37,7 @@ Spring 2026 Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link 
 ### Apr. 16 - [Richard Yifan Zhou](https://richardmkit.github.io) (Short Talk)
 
 - **Title:** [The Digital Reconstruction of U.S. Financial Dominance: Challenge and Governance of Non-Sovereign Digital Assets](https://io-workshop.github.io/files/Spring_2026/Zhou_Digital_Reconstruction.pdf)
-- **Discussant:** [TBD]()
+- **Discussant:** [Nicola Nones](https://www.nicolanones.com)
 
 ---
 
