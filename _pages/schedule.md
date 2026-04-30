@@ -41,7 +41,7 @@ Spring 2026 Meetings are scheduled for Thursdays at 11:00am (ET). The Zoom link 
 
 ---
 
-### Apr. 30 - [Uzair Khan](https://x.com/Uzairk32046787) (Short Talk)
+### Apr. 30 - [Uzair Khan](https://www.linkedin.com/in/uzair-khan-phdcandidate/?originalSubdomain=in) (Short Talk)
 
 -  **Topic:** [United Nations and its Interface with Transnational Corporations](https://io-workshop.github.io/files/Spring_2026/Uzair_UN_Transnationl_Corporations.pdf)
 - **Discussant:** [Tomoko Takahashi](https://us-japan.wcfia.harvard.edu/people/tomoko-takahashi)
