@@ -13,7 +13,7 @@ SoYun Chang (The Ohio State University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://soyunchang.github.io/soyunchang/"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:chang.2318@osu.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
-Do Young Gong (University of Illinois, Urbana-Champaign)
+Do Young Gong (Harvard University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "http://doyounggong.com/"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:dygong2@illinois.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
@@ -25,7 +25,7 @@ Naida Softic  (Loyola University Chicago)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.linkedin.com/in/naida-softic/"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:nsoftic@luc.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
-Jeffery Shih-Chieh Wang (Indiana University Bloomington)
+Jeffery Shih-Chieh Wang (University of California San Diego)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://jeffery-wang.com/"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:jeffery.wang429@gmail.com"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
