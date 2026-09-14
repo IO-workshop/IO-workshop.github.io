@@ -37,9 +37,9 @@ Jeffery Shih-Chieh Wang (University of California San Diego)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://jeffery-wang.com/"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:jeffery.wang429@gmail.com"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
-Zikun Yang (University of Cambridge)
+Zikun Yang (Columbia University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.linkedin.com/in/zikun-yang-194381130/"}}'><i class='fas fa-user'></i> [Website]</a></span>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:zy301@cam.ac.uk"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:zy2840@columbia.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
 Evelyn Zihan Zhu (University of Maryland, College Park)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://evekatsuragawa.github.io/evelynzhu/"}}'><i class='fas fa-user'></i> [Website]</a></span>
