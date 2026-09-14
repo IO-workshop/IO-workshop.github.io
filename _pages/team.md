@@ -13,9 +13,17 @@ SoYun Chang (The Ohio State University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://soyunchang.github.io/soyunchang/"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:chang.2318@osu.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
+Jing Ge (Florida International University)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://jingge.site"}}'><i class='fas fa-user'></i> [Website]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:jge003@fiu.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+
 Do Young Gong (Harvard University)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "http://doyounggong.com/"}}'><i class='fas fa-user'></i> [Website]</a></span>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:dygong2@illinois.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:dgong4@uwo.ca"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+
+Abdullah Al Mahmud (University of Glasgow)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.gla.ac.uk/pgrs/abdullahalmahmud/"}}'><i class='fas fa-user'></i> [Website]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:3170348A@student.gla.ac.uk"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
 Michael Huang (University of Illinois, Urbana-Champaign)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://michaelhuang1997.github.io/"}}'><i class='fas fa-user'></i> [Website]</a></span>
@@ -32,6 +40,10 @@ Jeffery Shih-Chieh Wang (University of California San Diego)
 Zikun Yang (University of Cambridge)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://www.linkedin.com/in/zikun-yang-194381130/"}}'><i class='fas fa-user'></i> [Website]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:zy301@cam.ac.uk"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
+
+Evelyn Zihan Zhu (University of Maryland, College Park)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "https://evekatsuragawa.github.io/evelynzhu/"}}'><i class='fas fa-user'></i> [Website]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "mailto:zzhu1228@umd.edu"}}'><i class='fas fa-envelope'></i> [Email]</a></span>
 
 <details markdown="1">
 <summary><strong>Former Team Members</strong></summary>
