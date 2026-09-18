@@ -1,15 +1,29 @@
 ---
 layout: archive
-title: "Call for Participants"
+title: "Call for Proposals"
 permalink: /cfp/
 author_profile: true
 ---
 
+## Junior IO Scholars Workshop Fall 2026 Call for Proposals
 
+We are soliciting proposals for the **Fall 2026 Junior IO Scholars Workshop**.
 
-Thank you to everyone who submitted proposals for the Spring 2026 Junior IO Scholars Workshop and helped circulate the call. We have now completed the Call for Proposals and finalized the workshop schedule.
+The Junior IO Scholars Workshop is a virtual, interdisciplinary, graduate-student-run workshop where graduate students, pre- and post-docs, and junior faculty can present and solicit feedback on their work. The workshop provides an opportunity to receive substantive feedback from peers and leaders in the field, and to develop a community of scholars with shared research interests.
 
-Please visit the <a href="https://io-workshop.github.io/schedule/">Schedule</a> page for detailed information on upcoming sessions, including presentation titles, presenters, and meeting details.
+Please use <a href="https://forms.gle/Q7zTp3xcocdgBDVW9">this form</a> to indicate if you are interested in presenting your work. The deadline for submissions is **11:59 pm Eastern Time on September 30, 2026 (Wednesday).**
+
+We welcome **longer-form practice job talk presentations (~45 minutes)** as well as **shorter presentations of works in progress (~15 minutes)**. Presentations will be followed by time for Q&A. We encourage participants to read the papers before the workshop.
+
+**Presentations will be held on Wednesdays at 11 AM Eastern Time, beginning October 14.** The full schedule will be announced in early October.
+
+We encourage submissions from people working on topics related to international organizations, broadly defined, inclusive of international law, foreign policy, and related areas. We also welcome different types of research, including theoretical, interdisciplinary, empirical, and policy-oriented works, as well as pre-analysis plans and research designs.
+
+We are committed to promoting the work and voices of Black, Indigenous, scholars of color, and women scholars.
+
+For past presentations and previous workshop schedules, please visit our <a href="[https://io-workshop.github.io/schedule/](https://io-workshop.github.io/schedule/)">Schedule</a> page.
+
+Please don't hesitate to reach out with any questions. We look forward to receiving your proposals!
 
 
 <!-- 
