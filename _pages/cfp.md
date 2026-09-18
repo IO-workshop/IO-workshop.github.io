@@ -21,7 +21,7 @@ We encourage submissions from people working on topics related to international 
 
 We are committed to promoting the work and voices of Black, Indigenous, scholars of color, and women scholars.
 
-For past presentations and previous workshop schedules, please visit our <a href="[https://io-workshop.github.io/schedule/](https://io-workshop.github.io/schedule/)">Schedule</a> page.
+For past presentations and previous workshop schedules, please visit our <a href="https://forms.gle/Q7zTp3xcocdgBDVW9">Schedule</a> page.
 
 Please don't hesitate to reach out with any questions. We look forward to receiving your proposals!
 
