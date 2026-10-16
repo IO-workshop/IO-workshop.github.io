@@ -20,7 +20,7 @@ We also host professionalization workshops, where scholars share their experienc
 
 **Workshop format:**
 
-We strongly encourage all participants read the papers before the workshop. Papers and the Zoom link will be circulated via our mailing list each week (see below). ***The Spring 2026 workshop is on Thursdays (11:00am, EST).***
+We strongly encourage all participants read the papers before the workshop. Papers and the Zoom link will be circulated via our mailing list each week (see below). ***The Fall 2026 workshop is on Wednesdays (11:00am, EST).***
 
 Job Market Talks: 35-40 minutes presentation, 30 minutes Q&A.
 
