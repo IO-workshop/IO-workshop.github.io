@@ -5,11 +5,26 @@ permalink: /schedule/
 author_profile: true
 ---
 
-Fall 2026 meetings will be held on Wednesdays at 11:00am (ET), beginning October 14. The full schedule will be announced in early October. The Zoom link will be shared via the listserv on the day of each meeting.
+Fall 2026 meetings will be held on Wednesdays at 11:00am (ET), beginning October 28. The Zoom link will be shared via the listserv on the day of each meeting.
 
-### Apr. 22 - [Juan Acevedo](https://opencuny.org/juan/) (Short Talk)
+### Oct. 28 - [Juan Acevedo](https://opencuny.org/juan/) (Short Talk)
 
 - [Abstract](https://io-workshop.github.io/files/Fall_2026/Acevedo_abstract_2026.pdf)
+- **Discussant:** [TBD]()
+
+### Nov. 11 - [Enock Bulime](https://sites.google.com/view/enockbulime/home?pli=1&authuser=0) (TBD)
+
+- [Abstract](https://io-workshop.github.io/files/Fall_2026/Bulime_abstract_2026.pdf)
+- **Discussant:** [TBD]()
+- 
+### Nov. 18 - [Sloan Lansdale](https://www.sloanlansdale.com) (TBD)
+
+- [Abstract](https://io-workshop.github.io/files/Fall_2026/Lansdale_abstract_2026.pdf)
+- **Discussant:** [TBD]()
+- 
+### Dec. 16 - [Yaqi Ma](https://www.ie.edu/law-school/alumni-stories/yaqi-ma/) (TBD)
+
+- [Abstract](https://io-workshop.github.io/files/Fall_2026/Ma_abstract_2026.pdf)
 - **Discussant:** [TBD]()
 
 
