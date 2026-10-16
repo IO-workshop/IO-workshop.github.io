@@ -7,6 +7,12 @@ author_profile: true
 
 Fall 2026 meetings will be held on Wednesdays at 11:00am (ET), beginning October 14. The full schedule will be announced in early October. The Zoom link will be shared via the listserv on the day of each meeting.
 
+### Apr. 22 - [Juan Acevedo](https://opencuny.org/juan/) (Short Talk)
+
+- [Abstract](https://io-workshop.github.io/files/Fall_2026/Acevedo_abstract_2026.pdf)
+- **Discussant:** [TBD]()
+
+
 
 <!--Past Presentations-->
 
