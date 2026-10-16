@@ -5,7 +5,15 @@ permalink: /cfp/
 author_profile: true
 ---
 
-## Junior IO Scholars Workshop Fall 2026 Call for Proposals
+**The Fall 2026 call for proposals is now closed.** Thank you to everyone who submitted a proposal.
+
+For upcoming sessions and past presentations, please visit our [Schedule page](https://io-workshop.github.io/schedule/).
+
+Please don't hesitate to reach out with any questions. We look forward to seeing you at the workshop!
+
+
+
+<!-- ## Junior IO Scholars Workshop Fall 2026 Call for Proposals
 
 We are soliciting proposals for the **Fall 2026 Junior IO Scholars Workshop**.
 
@@ -23,7 +31,7 @@ We are committed to promoting the work and voices of Black, Indigenous, scholars
 
 For past presentations and previous workshop schedules, please visit our <a href="https://io-workshop.github.io/schedule/">Schedule</a> page.
 
-Please don't hesitate to reach out with any questions. We look forward to receiving your proposals!
+Please don't hesitate to reach out with any questions. We look forward to receiving your proposals! -->
 
 
 <!-- 
