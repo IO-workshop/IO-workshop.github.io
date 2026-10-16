@@ -16,12 +16,12 @@ Fall 2026 meetings will be held on Wednesdays at 11:00am (ET), beginning October
 
 - [Abstract](https://io-workshop.github.io/files/Fall_2026/Bulime_abstract_2026.pdf)
 - **Discussant:** [TBD]()
-- 
+  
 ### Nov. 18 - [Sloan Lansdale](https://www.sloanlansdale.com) (TBD)
 
 - [Abstract](https://io-workshop.github.io/files/Fall_2026/Lansdale_abstract_2026.pdf)
 - **Discussant:** [TBD]()
-- 
+  
 ### Dec. 16 - [Yaqi Ma](https://www.ie.edu/law-school/alumni-stories/yaqi-ma/) (TBD)
 
 - [Abstract](https://io-workshop.github.io/files/Fall_2026/Ma_abstract_2026.pdf)
