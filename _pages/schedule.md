@@ -31,6 +31,8 @@ Fall 2026 meetings will be held on Wednesdays at 11:00am (ET), beginning October
 
 <!--Past Presentations-->
 
+<div style="height: 2rem;"></div>
+
 <details>
 <summary><strong>Past Presentations</strong></summary>
 
