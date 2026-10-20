@@ -9,7 +9,7 @@ Fall 2026 meetings will be held on Wednesdays at 11:00am (ET), beginning October
 
 ### Oct. 28 - [Juan Acevedo](https://opencuny.org/juan/) (Short Talk)
 
-- [Abstract](https://io-workshop.github.io/files/Fall_2026/Acevedo_abstract_2026.pdf)
+- **Title:** [Better a big ﬁsh in a small pond: The Interaction Between Local and Global International Status](https://io-workshop.github.io/files/Fall_2026/Paper_Acevedo.pdf)
 - **Discussant:** [TBD]()
 
 ### Nov. 11 - [Enock Bulime](https://sites.google.com/view/enockbulime/home?pli=1&authuser=0) (TBD)
