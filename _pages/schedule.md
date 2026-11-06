@@ -12,7 +12,7 @@ Fall 2026 meetings will be held on Wednesdays at 11:00am (ET), beginning October
 - **Title:** [Better a big ﬁsh in a small pond: The Interaction Between Local and Global International Status](https://io-workshop.github.io/files/Fall_2026/Paper_Acevedo.pdf)
 - **Discussant:** [Zikun Yang](https://cwp.sipa.columbia.edu/directory/zikun-yang)
 
-### Nov. 11 - [Enock Bulime](https://sites.google.com/view/enockbulime/home?pli=1&authuser=0) (Regular Talk)
+### Nov. 11 - [Enock Bulime](https://sites.google.com/view/enockbulime/home?pli=1&authuser=0) (Short Talk)
 
 - **Title:** [Price Shocks and Sovereign Debt Governance: Evidence from the IMF-World Bank Debt Sustainability Framework](https://io-workshop.github.io/files/Fall_2026/Enock_W.N._Bulime_paper.pdf)
 - **Discussant:** [TBD]()
@@ -22,7 +22,7 @@ Fall 2026 meetings will be held on Wednesdays at 11:00am (ET), beginning October
 - [Abstract](https://io-workshop.github.io/files/Fall_2026/Lansdale_abstract_2026.pdf)
 - **Discussant:** [Sabrina B. Arias](https://sabrinabarias.com/)
   
-### Dec. 16 - [Yaqi Ma](https://www.ie.edu/law-school/alumni-stories/yaqi-ma/) (Regular Talk)
+### Dec. 16 - [Yaqi Ma](https://www.ie.edu/law-school/alumni-stories/yaqi-ma/) (Short Talk)
 
 - **Title:** [Climate Governance and WTO Law: The Palm Oil Precedent and the Evolving Framework for Environmental Regulation](https://io-workshop.github.io/files/Fall_2026/Draft_Paper_(1st_draft)_Yaqi_Ma.doc)
 - **Discussant:** [TBD]()
