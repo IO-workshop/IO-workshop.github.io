@@ -19,7 +19,8 @@ Fall 2026 meetings will be held on Wednesdays at 11:00am (ET), beginning October
   
 ### Nov. 18 - [Sloan Lansdale](https://www.sloanlansdale.com) (Job Talk)
 
-- [Abstract](https://io-workshop.github.io/files/Fall_2026/Lansdale_abstract_2026.pdf)
+- **Title:** [Divided, Not Silent: Preference Variance and UNSC Response to
+Mass Atrocities](https://io-workshop.github.io/files/Fall_2026/Lansdale_DividedNotSilent_11726.pdf)
 - **Discussant:** [Sabrina B. Arias](https://sabrinabarias.com/)
   
 ### Dec. 16 - [Yaqi Ma](https://www.ie.edu/law-school/alumni-stories/yaqi-ma/) (Short Talk)
